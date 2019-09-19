@@ -1,0 +1,46 @@
+C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\UE4Editor\Development\AnimGA\Definitions.AnimGA.h
+c:\users\alexandre\desktop\animga\source\animga\SpectralVisualizer.h
+C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\UE4Editor\Inc\AnimGA\SpectralVisualizer.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\TimeSynth\Source\TimeSynth\Classes\TimeSynthComponent.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/AudioComponent.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioComponent.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Sound/SoundWaveProcedural.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundWaveProcedural.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\AudioMixer\Public\Components/SynthComponent.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioMixer\SynthComponent.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\AudioMixer\Public\DSP/SoundWaveDecoder.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine/Public/AudioDevice.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Sound/SoundMix.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundMix.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Sound/SoundSourceBus.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundSourceBus.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Sound/AudioSettings.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioSettings.generated.h
+c:\program files\epic games\ue_4.22\engine\source\runtime\engine\public\AudioDeviceManager.h
+c:\program files\epic games\ue_4.22\engine\source\runtime\engine\public\AudioThread.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\AudioMixer\Public\DSP/SpectrumAnalyzer.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\AudioMixer\Public\DSP/BufferVectorOperations.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\AudioMixer\Public\DSP/AudioFFT.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\AudioMixer/Private/AudioMixerBuffer.h
+c:\program files\epic games\ue_4.22\engine\source\runtime\audiomixer\private\AudioMixerSourceDecode.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\AudioMixer\Public\AudioMixer.h
+c:\program files\epic games\ue_4.22\engine\source\runtime\audiomixer\public\AudioMixerLog.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\AudioDecompress.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\AudioEffect.h
+c:\program files\epic games\ue_4.22\engine\source\runtime\audiomixer\public\AudioMixerNullDevice.h
+c:\program files\epic games\ue_4.22\engine\source\runtime\audiomixer\public\DSP/ParamInterpolator.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\AudioMixer/Private/AudioMixerSourceBuffer.h
+c:\program files\epic games\ue_4.22\engine\source\runtime\audiomixer\private\AudioMixerSourceManager.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\AudioMixer\Public\AudioMixerSubmix.h
+c:\program files\epic games\ue_4.22\engine\source\runtime\audiomixer\public\DSP/EnvelopeFollower.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\AudioMixer\Public\AudioMixerBus.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\AudioMixer\Public\DSP/OnePole.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\AudioMixer\Public\DSP/Filter.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\AudioMixer\Public\DSP/ModulationMatrix.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\AudioMixer\Public\DSP/BiQuadFilter.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\AudioMixer\Public\DSP/SinOsc.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\AudioMixer\Public\DSP/EventQuantizer.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\AudioMixer\Public\DSP/DynamicsProcesser.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\AudioMixer\Public\DSP/Delay.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\AudioMixer\Public\DSP/WaveTableOsc.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\TimeSynth\Intermediate\Build\Win64\UE4Editor\Inc\TimeSynth\TimeSynthComponent.generated.h

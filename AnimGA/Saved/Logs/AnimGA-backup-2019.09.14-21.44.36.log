@@ -1,0 +1,1268 @@
+﻿Log file open, 09/14/19 16:45:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: AnimGA
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.303712
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin TimeSynth
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU:         Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.09.14-19.45.03:522][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.09.14-19.45.03:522][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.09.14-19.45.03:522][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Engine.ini]
+[2019.09.14-19.45.03:522][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.09.14-19.45.03:522][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.09.14-19.45.03:522][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Engine.ini]
+[2019.09.14-19.45.03:522][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Engine.ini]
+[2019.09.14-19.45.03:522][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.09.14-19.45.03:522][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.09.14-19.45.03:522][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.09.14-19.45.03:522][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.09.14-19.45.03:522][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.09.14-19.45.03:522][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.09.14-19.45.03:522][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.09.14-19.45.03:522][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.09.14-19.45.03:522][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.09.14-19.45.03:522][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.09.14-19.45.03:522][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.09.14-19.45.03:522][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.09.14-19.45.03:522][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.09.14-19.45.03:522][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Engine.ini]
+[2019.09.14-19.45.03:522][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.09.14-19.45.03:522][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.09.14-19.45.03:522][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.09.14-19.45.03:522][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.09.14-19.45.03:522][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.09.14-19.45.03:522][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.09.14-19.45.03:522][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.09.14-19.45.03:522][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.09.14-19.45.03:522][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.09.14-19.45.03:522][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.09.14-19.45.03:522][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.09.14-19.45.03:522][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.09.14-19.45.03:522][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.09.14-19.45.03:522][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Engine.ini]
+[2019.09.14-19.45.03:522][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Engine.ini]
+[2019.09.14-19.45.03:530][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Scalability.ini]
+[2019.09.14-19.45.03:530][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.14-19.45.03:530][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.14-19.45.03:530][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Scalability.ini]
+[2019.09.14-19.45.03:530][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.14-19.45.03:530][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Scalability.ini]
+[2019.09.14-19.45.03:530][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.14-19.45.03:530][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.14-19.45.03:530][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.14-19.45.03:530][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.14-19.45.03:530][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.14-19.45.03:530][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.14-19.45.03:530][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.14-19.45.03:530][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.14-19.45.03:530][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.14-19.45.03:530][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.14-19.45.03:530][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.14-19.45.03:530][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.14-19.45.03:530][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.14-19.45.03:530][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.14-19.45.03:530][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.14-19.45.03:530][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.14-19.45.03:530][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.14-19.45.03:530][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.14-19.45.03:530][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Scalability.ini]
+[2019.09.14-19.45.03:530][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.14-19.45.03:530][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.14-19.45.03:530][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.14-19.45.03:530][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.14-19.45.03:530][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.14-19.45.03:530][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.14-19.45.03:530][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.14-19.45.03:530][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Scalability.ini]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Scalability.ini]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.14-19.45.03:531][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Scalability.ini]
+[2019.09.14-19.45.03:532][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.14-19.45.03:532][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.14-19.45.03:532][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.14-19.45.03:532][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.09.14-19.45.03:548][  0]LogHAL: Display: Platform has ~ 16 GB [17125179392 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.09.14-19.45.03:548][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.09.14-19.45.03:548][  0]LogInit: Going up to parent DeviceProfile []
+[2019.09.14-19.45.03:548][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Scalability.ini]
+[2019.09.14-19.45.03:548][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.14-19.45.03:548][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.14-19.45.03:548][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Scalability.ini]
+[2019.09.14-19.45.03:548][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.14-19.45.03:548][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Scalability.ini]
+[2019.09.14-19.45.03:548][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Scalability.ini]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Scalability.ini]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.14-19.45.03:549][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.14-19.45.03:550][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.14-19.45.03:550][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Scalability.ini]
+[2019.09.14-19.45.03:550][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.14-19.45.03:550][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.14-19.45.03:550][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.14-19.45.03:550][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.14-19.45.03:550][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.14-19.45.03:550][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.14-19.45.03:550][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.14-19.45.03:550][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.14-19.45.03:550][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.14-19.45.03:550][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.14-19.45.03:550][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.14-19.45.03:550][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.14-19.45.03:550][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.14-19.45.03:550][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Scalability.ini]
+[2019.09.14-19.45.03:550][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.14-19.45.03:550][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.14-19.45.03:550][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.09.14-19.45.03:550][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.09.14-19.45.03:550][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.09.14-19.45.03:550][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Engine.ini]
+[2019.09.14-19.45.03:550][  0]LogInit: Computer: DESKTOP-PIVJ3MB
+[2019.09.14-19.45.03:550][  0]LogInit: User: Alexandre
+[2019.09.14-19.45.03:550][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.09.14-19.45.03:550][  0]LogInit: High frequency timer resolution =3.320338 MHz
+[2019.09.14-19.45.03:551][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.09.14-19.45.03:551][  0]LogMemory: Platform Memory Stats for Windows
+[2019.09.14-19.45.03:551][  0]LogMemory: Process Physical Memory: 95.94 MB used, 95.94 MB peak
+[2019.09.14-19.45.03:551][  0]LogMemory: Process Virtual Memory: 88.85 MB used, 88.85 MB peak
+[2019.09.14-19.45.03:551][  0]LogMemory: Physical Memory: 6181.68 MB used,  10150.16 MB free, 16331.84 MB total
+[2019.09.14-19.45.03:551][  0]LogMemory: Virtual Memory: 4654.24 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.09.14-19.45.03:580][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.09.14-19.45.03:580][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2019.09.14-19.45.03:777][  0]LogInit: Setting process to per monitor DPI aware
+[2019.09.14-19.45.03:813][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.09.14-19.45.03:813][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.09.14-19.45.04:035][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.14-19.45.04:035][  0]LogD3D11RHI: D3D11 adapters:
+[2019.09.14-19.45.04:135][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2019.09.14-19.45.04:135][  0]LogD3D11RHI:       6052/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.09.14-19.45.04:138][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.09.14-19.45.04:138][  0]LogD3D11RHI:       0/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.09.14-19.45.04:138][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.09.14-19.45.04:146][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.09.14-19.45.04:146][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2019.09.14-19.45.04:146][  0]LogWindows: EnumDisplayDevices:
+[2019.09.14-19.45.04:146][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2019.09.14-19.45.04:147][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2019.09.14-19.45.04:147][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.09.14-19.45.04:148][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.09.14-19.45.04:148][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.09.14-19.45.04:148][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2019.09.14-19.45.04:148][  0]LogD3D11RHI:   Driver Version: 436.15 (internal:26.21.14.3615, unified:436.15)
+[2019.09.14-19.45.04:148][  0]LogD3D11RHI:      Driver Date: 8-24-2019
+[2019.09.14-19.45.04:148][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.09.14-19.45.04:222][  0]LogD3D11RHI: Async texture creation enabled
+[2019.09.14-19.45.04:234][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.14-19.45.04:234][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.14-19.45.04:234][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.14-19.45.04:245][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.09.14-19.45.04:689][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.09.14-19.45.04:704][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.09.14-19.45.04:721][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.09.14-19.45.04:737][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.09.14-19.45.04:754][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.09.14-19.45.04:770][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.09.14-19.45.04:787][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.09.14-19.45.04:803][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.09.14-19.45.04:811][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.09.14-19.45.04:903][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.09.14-19.45.04:903][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.09.14-19.45.04:903][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.09.14-19.45.04:903][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.09.14-19.45.04:903][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.09.14-19.45.04:903][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.09.14-19.45.04:903][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.09.14-19.45.04:903][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.09.14-19.45.04:903][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.09.14-19.45.04:903][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.09.14-19.45.04:903][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.09.14-19.45.04:904][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.09.14-19.45.04:904][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.09.14-19.45.04:904][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.09.14-19.45.04:904][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.09.14-19.45.04:904][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.09.14-19.45.04:904][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.09.14-19.45.04:904][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.09.14-19.45.04:906][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.09.14-19.45.04:972][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.09.14-19.45.04:972][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.09.14-19.45.05:013][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.09.14-19.45.05:013][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.09.14-19.45.05:027][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.09.14-19.45.05:041][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.09.14-19.45.05:056][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.09.14-19.45.05:071][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.09.14-19.45.05:120][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.09.14-19.45.05:120][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.09.14-19.45.05:121][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.09.14-19.45.05:132][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.09.14-19.45.05:201][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (../../../../../../Users/Alexandre/Desktop/AnimGA/Intermediate/Shaders/WorkingDirectory/6220/).
+[2019.09.14-19.45.05:202][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Alexandre/AppData/Local/Temp/UnrealShaderWorkingDir/872FE75644A00B7B8B39CB899CBB4390/'.
+[2019.09.14-19.45.05:205][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.09.14-19.45.05:205][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.09.14-19.45.05:205][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.09.14-19.45.05:805][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.09.14-19.45.05:885][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/Alexandre/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.09.14-19.45.05:885][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Alexandre/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.09.14-19.45.05:885][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Alexandre/Desktop/AnimGA/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.09.14-19.45.05:885][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.09.14-19.45.05:885][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Alexandre/Desktop/AnimGA/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.14-19.45.05:886][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.09.14-19.45.05:898][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.09.14-19.45.05:898][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.14-19.45.05:898][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.09.14-19.45.05:911][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Alexandre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.09.14-19.45.05:911][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.09.14-19.45.05:911][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.09.14-19.45.05:937][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.09.14-19.45.05:938][  0]LogSlate: Using FreeType 2.6.0
+[2019.09.14-19.45.05:939][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.09.14-19.45.06:032][  0]LogAssetRegistry: FAssetRegistry took 0.0343 seconds to start up
+[2019.09.14-19.45.06:435][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.14-19.45.06:605][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.09.14-19.45.06:605][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.09.14-19.45.06:605][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.09.14-19.45.06:605][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.09.14-19.45.06:605][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.09.14-19.45.06:624][  0]LogNetVersion: AnimGA 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 4278856282)
+[2019.09.14-19.45.07:081][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.054554 seconds
+[2019.09.14-19.45.07:088][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.09.14-19.45.07:088][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.09.14-19.45.07:088][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.09.14-19.45.08:057][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.09.14-19.45.08:071][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.09.14-19.45.08:208][  0]SourceControl: Source control is disabled
+[2019.09.14-19.45.08:208][  0]SourceControl: Source control is disabled
+[2019.09.14-19.45.08:211][  0]SourceControl: Source control is disabled
+[2019.09.14-19.45.08:212][  0]SourceControl: Source control is disabled
+[2019.09.14-19.45.08:302][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.09.14-19.45.08:463][  0]LogOcInput: OculusInput pre-init called
+[2019.09.14-19.45.09:248][  0]LogEngine: Initializing Engine...
+[2019.09.14-19.45.09:249][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.14-19.45.09:250][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.09.14-19.45.09:546][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.09.14-19.45.09:565][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.09.14-19.45.09:601][  0]LogInit: XAudio2 using 'Alto-falantes (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.14-19.45.09:620][  0]LogInit: FAudioDevice initialized.
+[2019.09.14-19.45.09:620][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.09.14-19.45.09:756][  0]LogDerivedDataCache: Saved boot cache 0.14s 71MB C:/Users/Alexandre/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.09.14-19.45.09:767][  0]LogInit: Texture streaming: Enabled
+[2019.09.14-19.45.09:812][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.09.14-19.45.09:840][  0]LogInit: Transaction tracking system initialized
+[2019.09.14-19.45.09:877][  0]BlueprintLog: New page: Editor Load
+[2019.09.14-19.45.09:994][  0]LocalizationService: Localization service is disabled
+[2019.09.14-19.45.10:387][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alexandre/Desktop/AnimGA/Content/' took 0.01s
+[2019.09.14-19.45.10:387][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.09.14-19.45.10:387][  0]LogCook: Display: Mobile HDR setting 1
+[2019.09.14-19.45.10:489][  0]LogLinker: Warning: Can't find file '/Engine/BasicShapes/Plane'
+[2019.09.14-19.45.10:490][  0]LogLinker: Warning: Can't find file '/Engine/BasicShapes/Plane'
+[2019.09.14-19.45.10:490][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Plane.Plane'
+[2019.09.14-19.45.10:601][  0]SourceControl: Source control is disabled
+[2019.09.14-19.45.10:601][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.14-19.45.10:601][  0]LightingResults: New page: Lighting Build
+[2019.09.14-19.45.10:605][  0]MapCheck: New page: Map Check
+[2019.09.14-19.45.10:605][  0]LightingResults: New page: Lighting Build
+[2019.09.14-19.45.10:627][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2019.09.14-19.45.10:725][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.09.14-19.45.10:731][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.14-19.45.10:754][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.09.14-19.45.10:754][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.14-19.45.10:755][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.198ms to complete.
+[2019.09.14-19.45.10:755][  0]LogFileHelpers: Loading map 'Template_Default' took 0.154
+[2019.09.14-19.45.10:883][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.14-19.45.10:892][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.14-19.45.10:901][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.14-19.45.10:910][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.14-19.45.10:919][  0]LogCollectionManager: Loaded 0 collections in 0.002773 seconds
+[2019.09.14-19.45.10:936][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alexandre/Desktop/AnimGA/Saved/Collections/' took 0.01s
+[2019.09.14-19.45.10:936][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alexandre/Desktop/AnimGA/Content/Developers/Alexandre/Collections/' took 0.00s
+[2019.09.14-19.45.10:936][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alexandre/Desktop/AnimGA/Content/Collections/' took 0.00s
+[2019.09.14-19.45.10:936][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.09.14-19.45.10:947][  0]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 2739 classes and 666 folders.
+[2019.09.14-19.45.10:956][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.09.14-19.45.10:957][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.14-19.45.10:958][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.14-19.45.10:959][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.14-19.45.10:959][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.14-19.45.10:960][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.14-19.45.10:960][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.14-19.45.10:961][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.14-19.45.10:961][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.14-19.45.10:962][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.14-19.45.10:962][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.14-19.45.10:963][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.14-19.45.10:963][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.14-19.45.10:964][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.14-19.45.10:964][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.14-19.45.10:965][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.14-19.45.10:965][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.14-19.45.10:966][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.14-19.45.10:966][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.14-19.45.10:967][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.14-19.45.10:967][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.14-19.45.10:968][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.14-19.45.10:968][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.14-19.45.10:969][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.14-19.45.10:970][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.14-19.45.10:970][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.14-19.45.10:971][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.14-19.45.11:022][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.09.14-19.45.11:031][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.09.14-19.45.11:098][  0]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.09.14-19.45.11:100][  0]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.09.14-19.45.11:107][  0]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.09.14-19.45.11:178][  0]LogRenderer: Reallocating scene render targets to support 1168x576 Format 10 NumSamples 1 (Frame:1).
+[2019.09.14-19.45.11:232][  0]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.14-19.45.11:322][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2019.09.14-19.45.11:322][  0]LogLoad: (Engine Initialization) Total time: 10.04 seconds
+[2019.09.14-19.45.11:322][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.09.14-19.45.11:371][  0]LogAssetRegistry: Asset discovery search completed in 5.3613 seconds
+[2019.09.14-19.45.11:373][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.09.14-19.45.11:373][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000047 seconds (updated 0 objects)
+[2019.09.14-19.45.11:374][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.09.14-19.47.59:194][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.14-19.50.08:543][720]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.14-19.50.08:629][720]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Alexandre\Desktop\Sum 41 - Ride the Chariot to the Devil.wav)
+[2019.09.14-19.50.08:771][720]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Alexandre\Desktop\Sum 41 - Grab The Devil By The Horns.wav)
+[2019.09.14-19.50.40:979][208]LogAssetEditorManager: Opening Asset editor for TimeSynthClip /Game/TSC_1.TSC_1
+[2019.09.14-19.50.54:535][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TSC_1" FILE="../../../../../../Users/Alexandre/Desktop/AnimGA/Content/TSC_1.uasset" SILENT=true
+[2019.09.14-19.50.54:545][568]LogSavePackage: Moving '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/TSC_15589A9AB4DBFA1A374F022B64AE83B3F.tmp' to '../../../../../../Users/Alexandre/Desktop/AnimGA/Content/TSC_1.uasset'
+[2019.09.14-19.51.12:892][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TSC_1" FILE="../../../../../../Users/Alexandre/Desktop/AnimGA/Content/TSC_1.uasset" SILENT=true
+[2019.09.14-19.51.12:904][413]LogSavePackage: Moving '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/TSC_14A4F21FF402D1324D6DDD9B09C89DB94.tmp' to '../../../../../../Users/Alexandre/Desktop/AnimGA/Content/TSC_1.uasset'
+[2019.09.14-19.51.27:298][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TSC_1" FILE="../../../../../../Users/Alexandre/Desktop/AnimGA/Content/TSC_1.uasset" SILENT=true
+[2019.09.14-19.51.27:306][812]LogSavePackage: Moving '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/TSC_1498736654E97293DA41469AB6154F527.tmp' to '../../../../../../Users/Alexandre/Desktop/AnimGA/Content/TSC_1.uasset'
+[2019.09.14-19.51.33:083][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TSC_1" FILE="../../../../../../Users/Alexandre/Desktop/AnimGA/Content/TSC_1.uasset" SILENT=true
+[2019.09.14-19.51.33:090][912]LogSavePackage: Moving '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/TSC_11F8850A64006C2A9E0F98D9D91A4890F.tmp' to '../../../../../../Users/Alexandre/Desktop/AnimGA/Content/TSC_1.uasset'
+[2019.09.14-19.51.33:565][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TSC_1" FILE="../../../../../../Users/Alexandre/Desktop/AnimGA/Content/TSC_1.uasset" SILENT=true
+[2019.09.14-19.51.33:573][966]LogSavePackage: Moving '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/TSC_174B1C0FE4EBEF6C3674E2399D6114E58.tmp' to '../../../../../../Users/Alexandre/Desktop/AnimGA/Content/TSC_1.uasset'
+[2019.09.14-19.51.34:659][ 92]LogSlate: Window 'TSC_1' being destroyed
+[2019.09.14-19.51.34:663][ 92]LogSlate: Window 'TSC_1' being destroyed
+[2019.09.14-19.51.47:501][454]LogAssetEditorManager: Opening Asset editor for TimeSynthClip /Game/TSC_1.TSC_1
+[2019.09.14-19.51.49:545][691]LogSlate: Window 'TSC_1' being destroyed
+[2019.09.14-19.51.49:549][691]LogSlate: Window 'TSC_1' being destroyed
+[2019.09.14-19.51.50:563][810]LogAssetEditorManager: Opening Asset editor for TimeSynthClip /Game/TSC_2.TSC_2
+[2019.09.14-19.51.57:934][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TSC_2" FILE="../../../../../../Users/Alexandre/Desktop/AnimGA/Content/TSC_2.uasset" SILENT=true
+[2019.09.14-19.51.57:942][679]LogSavePackage: Moving '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/TSC_226CAB4924132F0159DC6A0B987E8B328.tmp' to '../../../../../../Users/Alexandre/Desktop/AnimGA/Content/TSC_2.uasset'
+[2019.09.14-19.51.58:298][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TSC_2" FILE="../../../../../../Users/Alexandre/Desktop/AnimGA/Content/TSC_2.uasset" SILENT=true
+[2019.09.14-19.51.58:307][719]LogSavePackage: Moving '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/TSC_28315E28C46D4E611D5B852970FB0B90D.tmp' to '../../../../../../Users/Alexandre/Desktop/AnimGA/Content/TSC_2.uasset'
+[2019.09.14-19.52.06:684][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TSC_2" FILE="../../../../../../Users/Alexandre/Desktop/AnimGA/Content/TSC_2.uasset" SILENT=true
+[2019.09.14-19.52.06:694][717]LogSavePackage: Moving '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/TSC_2430094234E12E52F1AD8B5B367C42FE1.tmp' to '../../../../../../Users/Alexandre/Desktop/AnimGA/Content/TSC_2.uasset'
+[2019.09.14-19.52.07:651][829]LogSlate: Window 'TSC_2' being destroyed
+[2019.09.14-19.52.07:654][829]LogSlate: Window 'TSC_2' being destroyed
+[2019.09.14-19.52.21:437][687]LogEditor: Attempting to add actor of class 'SpectralVisualizer' to level at -500.00,-320.00,-20.00
+[2019.09.14-19.52.22:962][864]LogEditor: Attempting to add actor of class 'SpectralVisualizer' to level at -90.00,-80.00,20.00
+[2019.09.14-19.52.38:907][351]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.14-19.52.40:415][491]LogSlate: Took 0.006181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.09.14-19.52.42:211][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.14-19.53.15:654][556]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.14-19.53.22:385][205]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.14-19.53.42:445][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.14-19.54.13:813][862]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.14-19.54.13:826][862]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.09.14-19.54.13:827][862]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.14-19.54.13:827][862]PIE: New page: PIE session: Untitled_1 (Sep 14, 2019, 1:54:13 PM)
+[2019.09.14-19.54.13:840][862]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.09.14-19.54.13:844][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003677s)
+[2019.09.14-19.54.13:845][862]LogAIModule: Creating AISystem for world Untitled_1
+[2019.09.14-19.54.13:845][862]LogPlayLevel: PIE: World Init took: (0.000823s)
+[2019.09.14-19.54.13:845][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004857s)
+[2019.09.14-19.54.13:868][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.09.14-19.54.13:902][862]LogInit: XAudio2 using 'Alto-falantes (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.14-19.54.13:915][862]LogInit: FAudioDevice initialized.
+[2019.09.14-19.54.13:957][862]LogLoad: Game class is 'GameModeBase'
+[2019.09.14-19.54.13:963][862]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.09.14-16.54.13
+[2019.09.14-19.54.13:964][862]LogWorld: Bringing up level for play took: 0.003572
+[2019.09.14-19.54.13:999][862]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 20 classes and 0 folders.
+[2019.09.14-19.54.14:002][862]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Sum_41_-_Grab_The_Devil_By_The_Horns...
+[2019.09.14-19.54.15:241][862]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 11861180 while cooking SoundWave /Game/Sum_41_-_Grab_The_Devil_By_The_Horns.Sum_41_-_Grab_The_Devil_By_The_Horns.
+[2019.09.14-19.54.15:248][862]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.569
+[2019.09.14-19.54.15:248][862]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.09.14-19.54.15:296][863]LogTemp: Decoding sources size 1.
+[2019.09.14-19.54.32:722][946]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.09.14-19.54.32:722][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.14-19.54.32:753][946]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.14-19.54.32:754][946]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.09.14-19.54.32:779][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.14-19.54.32:783][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.09.14-19.54.32:785][946]LogActorComponent: ReregisterComponent: (/Temp/Untitled_1.Untitled_1:PersistentLevel.SpectralVisualizer_1.TimeSynthComponent.AudioComponent_31) Not currently registered. Aborting.
+[2019.09.14-19.54.32:785][946]LogActorComponent: ReregisterComponent: (/Temp/Untitled_1.Untitled_1:PersistentLevel.SpectralVisualizer_1.TimeSynthComponent.AudioComponent_0) Not currently registered. Aborting.
+[2019.09.14-19.54.32:785][946]LogActorComponent: ReregisterComponent: (/Temp/Untitled_1.Untitled_1:PersistentLevel.SpectralVisualizer_1.TimeSynthComponent.AudioComponent_1) Not currently registered. Aborting.
+[2019.09.14-19.54.32:785][946]LogActorComponent: ReregisterComponent: (/Temp/Untitled_1.Untitled_1:PersistentLevel.SpectralVisualizer_1.TimeSynthComponent.AudioComponent_2) Not currently registered. Aborting.
+[2019.09.14-19.54.32:785][946]LogActorComponent: ReregisterComponent: (/Temp/Untitled_1.Untitled_1:PersistentLevel.SpectralVisualizer_1.TimeSynthComponent.AudioComponent_3) Not currently registered. Aborting.
+[2019.09.14-19.54.32:785][946]LogActorComponent: ReregisterComponent: (/Temp/Untitled_1.Untitled_1:PersistentLevel.SpectralVisualizer_1.TimeSynthComponent.AudioComponent_4) Not currently registered. Aborting.
+[2019.09.14-19.54.32:785][946]LogActorComponent: ReregisterComponent: (/Temp/Untitled_1.Untitled_1:PersistentLevel.SpectralVisualizer_1.TimeSynthComponent.AudioComponent_5) Not currently registered. Aborting.
+[2019.09.14-19.54.32:826][950]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.09.14-19.55.31:059][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.09.14-19.55.31:060][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/Autosaves/Temp/Untitled_1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.09.14-19.55.31:110][105]LogSavePackage: Moving '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/Untitled_1_Auto103E9C77E4D5C70FF482010BC3E5894AE.tmp' to '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2019.09.14-19.55.31:117][105]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.099
+[2019.09.14-19.55.31:117][105]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.099
+[2019.09.14-19.55.31:119][105]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sum_41_-_Ride_the_Chariot_to_the_Devil] ([1] browsable assets)...
+[2019.09.14-19.55.31:133][105]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sum_41_-_Ride_the_Chariot_to_the_Devil.Sum_41_-_Ride_the_Chariot_to_the_Devil]
+[2019.09.14-19.55.31:133][105]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sum_41_-_Ride_the_Chariot_to_the_Devil]
+[2019.09.14-19.55.31:149][105]LogSavePackage: Moving '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/Sum_41_-_Ride_the_Chariot_to_theB224857D442C00B491BD9C8875422387.tmp' to '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/Autosaves/Game/Sum_41_-_Ride_the_Chariot_to_the_Devil_Auto1.uasset'
+[2019.09.14-19.55.31:151][105]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sum_41_-_Grab_The_Devil_By_The_Horns] ([1] browsable assets)...
+[2019.09.14-19.55.31:166][105]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sum_41_-_Grab_The_Devil_By_The_Horns.Sum_41_-_Grab_The_Devil_By_The_Horns]
+[2019.09.14-19.55.31:166][105]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sum_41_-_Grab_The_Devil_By_The_Horns]
+[2019.09.14-19.55.31:183][105]LogSavePackage: Moving '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/Sum_41_-_Grab_The_Devil_By_The_H45C13A71483369E706E30AA912DFC8E3.tmp' to '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/Autosaves/Game/Sum_41_-_Grab_The_Devil_By_The_Horns_Auto1.uasset'
+[2019.09.14-19.55.31:185][105]LogFileHelpers: Auto-saving content packages took 0.067
+[2019.09.14-19.55.59:105][212]LogEditorViewport: Clicking on Actor (LMB): SpectralVisualizer (SpectralVisualizer1)
+[2019.09.14-19.56.01:168][436]LogEditorViewport: Clicking on Actor (LMB): SpectralVisualizer (SpectralVisualizer1)
+[2019.09.14-19.56.32:130][143]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.14-19.57.05:803][584]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.14-19.57.29:480][604]Cmd: TRANSACTION UNDO
+[2019.09.14-19.57.29:480][604]LogEditorTransaction: Undo Move Actors
+[2019.09.14-19.57.29:489][604]LogActorComponent: RegisterComponentWithWorld: (/Temp/Untitled_1.Untitled_1:PersistentLevel.SpectralVisualizer_1.TimeSynthComponent.AudioComponent_1328) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.09.14-19.57.29:490][604]LogActorComponent: UnregisterComponent: (/Temp/Untitled_1.Untitled_1:PersistentLevel.SpectralVisualizer_1.TimeSynthComponent.AudioComponent_1328) Not registered. Aborting.
+[2019.09.14-19.57.45:034][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.14-19.57.45:515][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.09.14-19.57.46:678][966]LogSlate: Window 'Save Content' being destroyed
+[2019.09.14-19.57.46:689][966]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.14-19.57.46:695][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sum_41_-_Grab_The_Devil_By_The_Horns" FILE="../../../../../../Users/Alexandre/Desktop/AnimGA/Content/Sum_41_-_Grab_The_Devil_By_The_Horns.uasset" SILENT=true
+[2019.09.14-19.57.46:712][966]LogSavePackage: Moving '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/Sum_41_-_Grab_The_Devil_By_The_H242954704D3BFC40AD3A85AB21E55391.tmp' to '../../../../../../Users/Alexandre/Desktop/AnimGA/Content/Sum_41_-_Grab_The_Devil_By_The_Horns.uasset'
+[2019.09.14-19.57.46:728][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sum_41_-_Ride_the_Chariot_to_the_Devil" FILE="../../../../../../Users/Alexandre/Desktop/AnimGA/Content/Sum_41_-_Ride_the_Chariot_to_the_Devil.uasset" SILENT=true
+[2019.09.14-19.57.46:741][966]LogSavePackage: Moving '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/Sum_41_-_Ride_the_Chariot_to_the4235B161431E5B0AF722EB85B14DE060.tmp' to '../../../../../../Users/Alexandre/Desktop/AnimGA/Content/Sum_41_-_Ride_the_Chariot_to_the_Devil.uasset'
+[2019.09.14-19.57.49:239][966]LogSlate: Window 'Save Level As' being destroyed
+[2019.09.14-19.57.49:360][966]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2019.09.14-19.57.49:361][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/Alexandre/Desktop/AnimGA/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.14-19.57.49:386][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2019.09.14-19.57.49:508][966]LogSavePackage: Moving '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/Untitled3B5CEFB740D6291DCF4075AB12E6000C.tmp' to '../../../../../../Users/Alexandre/Desktop/AnimGA/Content/Untitled.umap'
+[2019.09.14-19.57.49:536][966]LogFileHelpers: Saving map 'Untitled' took 0.292
+[2019.09.14-19.57.50:357][ 53]Candidate modules for hot reload:
+[2019.09.14-19.57.50:357][ 53]  AnimGA
+[2019.09.14-19.57.50:357][ 53]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=AnimGA,3897 Win64 Development -TargetType=Editor -Project="C:/Users/Alexandre/Desktop/AnimGA/AnimGA.uproject" "C:/Users/Alexandre/Desktop/AnimGA/AnimGA.uproject"  -IgnoreJunk]
+[2019.09.14-19.57.50:361][ 53]Warning: Starting HotReload took  0.0s.
+[2019.09.14-19.58.06:488][356]CompilerResultsLog: New page: Compilation - Sep 14, 2019, 1:58:06 PM
+[2019.09.14-19.58.06:489][356]CompilerResultsLog: Creating makefile for AnimGAEditor (ini files are newer than makefile)
+[2019.09.14-19.58.06:489][356]CompilerResultsLog: Parsing headers for AnimGAEditor
+[2019.09.14-19.58.06:489][356]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Alexandre\Desktop\AnimGA\AnimGA.uproject" "C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\AnimGAEditor\Development\AnimGAEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.09.14-19.58.06:489][356]CompilerResultsLog: Reflection code generated for AnimGAEditor in 8,3433813 seconds
+[2019.09.14-19.58.06:489][356]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.09.14-19.58.06:489][356]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.09.14-19.58.06:489][356]CompilerResultsLog:   [1/4] SpectralVisualizer.cpp
+[2019.09.14-19.58.06:489][356]CompilerResultsLog:   [2/4] UE4Editor-AnimGA-3897.lib
+[2019.09.14-19.58.06:489][356]CompilerResultsLog:      Criando biblioteca C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\UE4Editor\Development\AnimGA\UE4Editor-AnimGA-3897.lib e objeto C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\UE4Editor\Development\AnimGA\UE4Editor-AnimGA-3897.exp
+[2019.09.14-19.58.06:489][356]CompilerResultsLog:   [3/4] UE4Editor-AnimGA-3897.dll
+[2019.09.14-19.58.06:489][356]CompilerResultsLog:      Criando biblioteca C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\UE4Editor\Development\AnimGA\UE4Editor-AnimGA-3897.suppressed.lib e objeto C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\UE4Editor\Development\AnimGA\UE4Editor-AnimGA-3897.suppressed.exp
+[2019.09.14-19.58.06:489][356]CompilerResultsLog:   [4/4] AnimGAEditor.target
+[2019.09.14-19.58.06:489][356]CompilerResultsLog: Total time in Parallel executor: 4,87 seconds
+[2019.09.14-19.58.06:489][356]CompilerResultsLog: Total execution time: 16,03 seconds
+[2019.09.14-19.58.06:489][356]LogMainFrame: MainFrame: Module compiling took 16.135 seconds
+[2019.09.14-19.58.06:513][356]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.09.14-19.58.06:542][356]LogHotReload: Re-instancing SpectralVisualizer after hot-reload.
+[2019.09.14-19.58.06:636][356]LogContentBrowser: Native class hierarchy updated for 'AnimGA' in 0.0005 seconds. Added 2 classes and 2 folders.
+[2019.09.14-19.58.06:639][356]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.09.14-19.58.06:782][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.09.14-19.58.06:797][356]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2740 classes and 668 folders.
+[2019.09.14-19.58.06:797][356]Display: HotReload took 16.5s.
+[2019.09.14-19.58.50:363][507]Cmd: DELETE
+[2019.09.14-19.58.50:364][507]Cmd: ACTOR DELETE
+[2019.09.14-19.58.50:367][507]LogEditorActor: Deleted Actor: SpectralVisualizer
+[2019.09.14-19.58.50:390][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.09.14-19.58.50:391][507]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.09.14-19.58.51:264][611]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.14-19.58.51:423][629]LogEditor: Attempting to add actor of class 'SpectralVisualizer' to level at 230.00,800.00,180.00
+[2019.09.14-19.58.52:448][749]LogEditor: Attempting to add actor of class 'SpectralVisualizer' to level at 500.00,590.00,380.00
+[2019.09.14-19.59.02:148][860]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.14-19.59.16:401][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.14-19.59.24:445][178]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.09.14-19.59.25:392][284]LogEditorViewport: Clicking on Actor (LMB): SpectralVisualizer (SpectralVisualizer4)
+[2019.09.14-19.59.27:715][502]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.09.14-19.59.28:430][582]LogEditorViewport: Clicking on Actor (LMB): SpectralVisualizer (SpectralVisualizer4)
+[2019.09.14-19.59.32:693][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.14-19.59.36:114][379]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.14-19.59.50:231][951]LogEditorViewport: Clicking on Actor (LMB): SpectralVisualizer (SpectralVisualizer4)
+[2019.09.14-19.59.51:924][143]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.14-19.59.52:059][159]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.14-19.59.52:073][159]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.09.14-19.59.52:074][159]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.14-19.59.52:074][159]PIE: New page: PIE session: Untitled (Sep 14, 2019, 1:59:52 PM)
+[2019.09.14-19.59.52:074][159]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2019.09.14-19.59.52:078][159]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003672s)
+[2019.09.14-19.59.52:078][159]LogAIModule: Creating AISystem for world Untitled
+[2019.09.14-19.59.52:079][159]LogPlayLevel: PIE: World Init took: (0.000879s)
+[2019.09.14-19.59.52:079][159]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.004857s)
+[2019.09.14-19.59.52:102][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.09.14-19.59.52:134][159]LogInit: XAudio2 using 'Alto-falantes (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.14-19.59.52:147][159]LogInit: FAudioDevice initialized.
+[2019.09.14-19.59.52:176][159]LogLoad: Game class is 'GameModeBase'
+[2019.09.14-19.59.52:180][159]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2019.09.14-16.59.52
+[2019.09.14-19.59.52:181][159]LogWorld: Bringing up level for play took: 0.003388
+[2019.09.14-19.59.52:197][159]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled -0.481
+[2019.09.14-19.59.52:197][159]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.09.14-19.59.52:242][159]LogTemp: Decoding sources size 1.
+[2019.09.14-20.00.21:852][711]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.09.14-20.00.21:852][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.14-20.00.21:882][711]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.14-20.00.21:883][711]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.09.14-20.00.21:908][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.14-20.00.21:911][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.09.14-20.00.21:914][711]LogActorComponent: ReregisterComponent: (/Game/Untitled.Untitled:PersistentLevel.SpectralVisualizer_1.TimeSynthComponent.AudioComponent_1) Not currently registered. Aborting.
+[2019.09.14-20.00.21:914][711]LogActorComponent: ReregisterComponent: (/Game/Untitled.Untitled:PersistentLevel.SpectralVisualizer_4.TimeSynthComponent.AudioComponent_216) Not currently registered. Aborting.
+[2019.09.14-20.00.21:914][711]LogActorComponent: ReregisterComponent: (/Game/Untitled.Untitled:PersistentLevel.SpectralVisualizer_4.TimeSynthComponent.AudioComponent_0) Not currently registered. Aborting.
+[2019.09.14-20.00.21:914][711]LogActorComponent: ReregisterComponent: (/Game/Untitled.Untitled:PersistentLevel.SpectralVisualizer_4.TimeSynthComponent.AudioComponent_1) Not currently registered. Aborting.
+[2019.09.14-20.00.21:914][711]LogActorComponent: ReregisterComponent: (/Game/Untitled.Untitled:PersistentLevel.SpectralVisualizer_4.TimeSynthComponent.AudioComponent_8) Not currently registered. Aborting.
+[2019.09.14-20.00.21:914][711]LogActorComponent: ReregisterComponent: (/Game/Untitled.Untitled:PersistentLevel.SpectralVisualizer_4.TimeSynthComponent.AudioComponent_3) Not currently registered. Aborting.
+[2019.09.14-20.00.21:914][711]LogActorComponent: ReregisterComponent: (/Game/Untitled.Untitled:PersistentLevel.SpectralVisualizer_4.TimeSynthComponent.AudioComponent_7) Not currently registered. Aborting.
+[2019.09.14-20.00.21:914][711]LogActorComponent: ReregisterComponent: (/Game/Untitled.Untitled:PersistentLevel.SpectralVisualizer_4.TimeSynthComponent.AudioComponent_5) Not currently registered. Aborting.
+[2019.09.14-20.00.21:956][715]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.09.14-20.00.22:779][813]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.09.14-20.00.26:199][165]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.09.14-20.02.05:911][251]LogEditorViewport: Clicking on Actor (LMB): SpectralVisualizer (SpectralVisualizer4)
+[2019.09.14-20.02.09:880][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.14-20.02.09:988][717]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.14-20.02.09:999][717]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.09.14-20.02.09:999][717]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.14-20.02.10:000][717]PIE: New page: PIE session: Untitled (Sep 14, 2019, 2:02:10 PM)
+[2019.09.14-20.02.10:000][717]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2019.09.14-20.02.10:003][717]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003526s)
+[2019.09.14-20.02.10:004][717]LogAIModule: Creating AISystem for world Untitled
+[2019.09.14-20.02.10:004][717]LogPlayLevel: PIE: World Init took: (0.000994s)
+[2019.09.14-20.02.10:005][717]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.004714s)
+[2019.09.14-20.02.10:025][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2019.09.14-20.02.10:057][717]LogInit: XAudio2 using 'Alto-falantes (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.14-20.02.10:069][717]LogInit: FAudioDevice initialized.
+[2019.09.14-20.02.10:100][717]LogLoad: Game class is 'GameModeBase'
+[2019.09.14-20.02.10:102][717]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2019.09.14-17.02.10
+[2019.09.14-20.02.10:103][717]LogWorld: Bringing up level for play took: 0.001773
+[2019.09.14-20.02.10:116][717]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled -0.562
+[2019.09.14-20.02.10:117][717]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.09.14-20.02.10:173][717]LogTemp: Decoding sources size 1.
+[2019.09.14-20.02.43:147][671]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.09.14-20.02.43:148][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.14-20.02.43:180][671]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.14-20.02.43:180][671]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.09.14-20.02.43:205][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.14-20.02.43:208][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2019.09.14-20.02.43:211][671]LogActorComponent: ReregisterComponent: (/Game/Untitled.Untitled:PersistentLevel.SpectralVisualizer_1.TimeSynthComponent.AudioComponent_1) Not currently registered. Aborting.
+[2019.09.14-20.02.43:211][671]LogActorComponent: ReregisterComponent: (/Game/Untitled.Untitled:PersistentLevel.SpectralVisualizer_4.TimeSynthComponent.AudioComponent_216) Not currently registered. Aborting.
+[2019.09.14-20.02.43:211][671]LogActorComponent: ReregisterComponent: (/Game/Untitled.Untitled:PersistentLevel.SpectralVisualizer_4.TimeSynthComponent.AudioComponent_0) Not currently registered. Aborting.
+[2019.09.14-20.02.43:211][671]LogActorComponent: ReregisterComponent: (/Game/Untitled.Untitled:PersistentLevel.SpectralVisualizer_4.TimeSynthComponent.AudioComponent_1) Not currently registered. Aborting.
+[2019.09.14-20.02.43:211][671]LogActorComponent: ReregisterComponent: (/Game/Untitled.Untitled:PersistentLevel.SpectralVisualizer_4.TimeSynthComponent.AudioComponent_8) Not currently registered. Aborting.
+[2019.09.14-20.02.43:211][671]LogActorComponent: ReregisterComponent: (/Game/Untitled.Untitled:PersistentLevel.SpectralVisualizer_4.TimeSynthComponent.AudioComponent_3) Not currently registered. Aborting.
+[2019.09.14-20.02.43:211][671]LogActorComponent: ReregisterComponent: (/Game/Untitled.Untitled:PersistentLevel.SpectralVisualizer_4.TimeSynthComponent.AudioComponent_7) Not currently registered. Aborting.
+[2019.09.14-20.02.43:211][671]LogActorComponent: ReregisterComponent: (/Game/Untitled.Untitled:PersistentLevel.SpectralVisualizer_4.TimeSynthComponent.AudioComponent_5) Not currently registered. Aborting.
+[2019.09.14-20.02.43:253][675]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.09.14-20.03.20:178][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.14-20.03.31:921][514]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.14-20.03.31:933][514]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.09.14-20.03.31:934][514]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.14-20.03.31:934][514]PIE: New page: PIE session: Untitled (Sep 14, 2019, 2:03:31 PM)
+[2019.09.14-20.03.31:934][514]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2019.09.14-20.03.31:937][514]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003551s)
+[2019.09.14-20.03.31:938][514]LogAIModule: Creating AISystem for world Untitled
+[2019.09.14-20.03.31:938][514]LogPlayLevel: PIE: World Init took: (0.000887s)
+[2019.09.14-20.03.31:938][514]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.004612s)
+[2019.09.14-20.03.31:960][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.09.14-20.03.31:992][514]LogInit: XAudio2 using 'Alto-falantes (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.14-20.03.32:004][514]LogInit: FAudioDevice initialized.
+[2019.09.14-20.03.32:036][514]LogLoad: Game class is 'GameModeBase'
+[2019.09.14-20.03.32:038][514]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2019.09.14-17.03.32
+[2019.09.14-20.03.32:039][514]LogWorld: Bringing up level for play took: 0.001619
+[2019.09.14-20.03.32:053][514]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled -0.625
+[2019.09.14-20.03.32:054][514]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.09.14-20.03.32:098][514]LogTemp: Decoding sources size 1.
+[2019.09.14-20.04.10:672][142]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.09.14-20.04.10:672][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.14-20.04.10:702][142]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.14-20.04.10:702][142]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.09.14-20.04.10:727][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.14-20.04.10:730][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2019.09.14-20.04.10:732][142]LogActorComponent: ReregisterComponent: (/Game/Untitled.Untitled:PersistentLevel.SpectralVisualizer_1.TimeSynthComponent.AudioComponent_1) Not currently registered. Aborting.
+[2019.09.14-20.04.10:732][142]LogActorComponent: ReregisterComponent: (/Game/Untitled.Untitled:PersistentLevel.SpectralVisualizer_4.TimeSynthComponent.AudioComponent_216) Not currently registered. Aborting.
+[2019.09.14-20.04.10:732][142]LogActorComponent: ReregisterComponent: (/Game/Untitled.Untitled:PersistentLevel.SpectralVisualizer_4.TimeSynthComponent.AudioComponent_0) Not currently registered. Aborting.
+[2019.09.14-20.04.10:732][142]LogActorComponent: ReregisterComponent: (/Game/Untitled.Untitled:PersistentLevel.SpectralVisualizer_4.TimeSynthComponent.AudioComponent_1) Not currently registered. Aborting.
+[2019.09.14-20.04.10:732][142]LogActorComponent: ReregisterComponent: (/Game/Untitled.Untitled:PersistentLevel.SpectralVisualizer_4.TimeSynthComponent.AudioComponent_8) Not currently registered. Aborting.
+[2019.09.14-20.04.10:732][142]LogActorComponent: ReregisterComponent: (/Game/Untitled.Untitled:PersistentLevel.SpectralVisualizer_4.TimeSynthComponent.AudioComponent_3) Not currently registered. Aborting.
+[2019.09.14-20.04.10:732][142]LogActorComponent: ReregisterComponent: (/Game/Untitled.Untitled:PersistentLevel.SpectralVisualizer_4.TimeSynthComponent.AudioComponent_7) Not currently registered. Aborting.
+[2019.09.14-20.04.10:732][142]LogActorComponent: ReregisterComponent: (/Game/Untitled.Untitled:PersistentLevel.SpectralVisualizer_4.TimeSynthComponent.AudioComponent_5) Not currently registered. Aborting.
+[2019.09.14-20.04.10:775][146]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.09.14-20.09.27:510][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2019.09.14-20.09.27:511][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/Autosaves/Game/Untitled_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.09.14-20.09.27:645][134]LogSavePackage: Moving '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/Untitled_Auto2E33AB03847EF16561F6DEA883D645D01.tmp' to '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/Autosaves/Game/Untitled_Auto2.umap'
+[2019.09.14-20.09.27:649][134]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Untitled' took 0.169
+[2019.09.14-20.09.27:649][134]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.169
+[2019.09.14-20.19.28:094][917]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.09.14-20.19.28:094][917]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Untitled' took 0.037
+[2019.09.14-20.29.28:799][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.09.14-20.29.28:799][700]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Untitled' took 0.026
+[2019.09.14-20.39.41:406][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.09.14-20.39.41:406][625]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Untitled' took 0.024
+[2019.09.14-20.49.41:934][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.09.14-20.49.41:935][414]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Untitled' took 0.026
+[2019.09.14-20.59.42:551][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.09.14-20.59.42:551][203]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Untitled' took 0.023
+[2019.09.14-21.02.10:939][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.14-21.02.10:948][752]LogSlate: Took 0.007239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.09.14-21.02.14:032][113]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.14-21.02.14:044][113]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.09.14-21.02.14:044][113]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.14-21.02.14:045][113]PIE: New page: PIE session: Untitled (Sep 14, 2019, 3:02:14 PM)
+[2019.09.14-21.02.14:045][113]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2019.09.14-21.02.14:049][113]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004123s)
+[2019.09.14-21.02.14:051][113]LogAIModule: Creating AISystem for world Untitled
+[2019.09.14-21.02.14:051][113]LogPlayLevel: PIE: World Init took: (0.001466s)
+[2019.09.14-21.02.14:051][113]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.006354s)
+[2019.09.14-21.02.14:072][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.09.14-21.02.14:103][113]LogInit: XAudio2 using 'Alto-falantes (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.14-21.02.14:116][113]LogInit: FAudioDevice initialized.
+[2019.09.14-21.02.14:147][113]LogLoad: Game class is 'GameModeBase'
+[2019.09.14-21.02.14:149][113]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2019.09.14-18.02.14
+[2019.09.14-21.02.14:150][113]LogWorld: Bringing up level for play took: 0.001815
+[2019.09.14-21.02.14:165][113]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled -0.513
+[2019.09.14-21.02.14:166][113]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.09.14-21.02.14:211][113]LogTemp: Decoding sources size 1.
+[2019.09.14-21.02.22:585][115]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.09.14-21.02.22:585][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.14-21.02.22:618][115]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.14-21.02.22:619][115]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.09.14-21.02.22:661][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.14-21.02.22:664][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.09.14-21.02.22:667][115]LogActorComponent: ReregisterComponent: (/Game/Untitled.Untitled:PersistentLevel.SpectralVisualizer_1.TimeSynthComponent.AudioComponent_1) Not currently registered. Aborting.
+[2019.09.14-21.02.22:667][115]LogActorComponent: ReregisterComponent: (/Game/Untitled.Untitled:PersistentLevel.SpectralVisualizer_4.TimeSynthComponent.AudioComponent_216) Not currently registered. Aborting.
+[2019.09.14-21.02.22:667][115]LogActorComponent: ReregisterComponent: (/Game/Untitled.Untitled:PersistentLevel.SpectralVisualizer_4.TimeSynthComponent.AudioComponent_0) Not currently registered. Aborting.
+[2019.09.14-21.02.22:668][115]LogActorComponent: ReregisterComponent: (/Game/Untitled.Untitled:PersistentLevel.SpectralVisualizer_4.TimeSynthComponent.AudioComponent_1) Not currently registered. Aborting.
+[2019.09.14-21.02.22:668][115]LogActorComponent: ReregisterComponent: (/Game/Untitled.Untitled:PersistentLevel.SpectralVisualizer_4.TimeSynthComponent.AudioComponent_8) Not currently registered. Aborting.
+[2019.09.14-21.02.22:668][115]LogActorComponent: ReregisterComponent: (/Game/Untitled.Untitled:PersistentLevel.SpectralVisualizer_4.TimeSynthComponent.AudioComponent_3) Not currently registered. Aborting.
+[2019.09.14-21.02.22:668][115]LogActorComponent: ReregisterComponent: (/Game/Untitled.Untitled:PersistentLevel.SpectralVisualizer_4.TimeSynthComponent.AudioComponent_7) Not currently registered. Aborting.
+[2019.09.14-21.02.22:669][115]LogActorComponent: ReregisterComponent: (/Game/Untitled.Untitled:PersistentLevel.SpectralVisualizer_4.TimeSynthComponent.AudioComponent_5) Not currently registered. Aborting.
+[2019.09.14-21.02.22:685][116]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.09.14-21.03.18:937][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.14-21.03.19:724][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.09.14-21.03.20:907][918]LogSlate: Window 'Save Content' being destroyed
+[2019.09.14-21.03.20:918][918]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.14-21.03.20:924][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/Alexandre/Desktop/AnimGA/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.14-21.03.20:953][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.09.14-21.03.21:085][918]LogSavePackage: Moving '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/Untitled5E035C924030A9CEBA4A8DB8988686F3.tmp' to '../../../../../../Users/Alexandre/Desktop/AnimGA/Content/Untitled.umap'
+[2019.09.14-21.03.21:122][918]LogFileHelpers: Saving map 'Untitled' took 0.199
+[2019.09.14-21.03.21:124][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled_BuiltData" FILE="../../../../../../Users/Alexandre/Desktop/AnimGA/Content/Untitled_BuiltData.uasset" SILENT=true
+[2019.09.14-21.03.21:143][918]LogSavePackage: Moving '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/Untitled_BuiltDataB70F828140C0E1813DC4F6A772C57285.tmp' to '../../../../../../Users/Alexandre/Desktop/AnimGA/Content/Untitled_BuiltData.uasset'
+[2019.09.14-21.03.21:577][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.14-21.03.21:677][977]Candidate modules for hot reload:
+[2019.09.14-21.03.21:678][977]  AnimGA
+[2019.09.14-21.03.21:678][977]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=AnimGA,1184 Win64 Development -TargetType=Editor -Project="C:/Users/Alexandre/Desktop/AnimGA/AnimGA.uproject" "C:/Users/Alexandre/Desktop/AnimGA/AnimGA.uproject"  -IgnoreJunk]
+[2019.09.14-21.03.21:682][977]Warning: Starting HotReload took  0.0s.
+[2019.09.14-21.03.52:089][596]CompilerResultsLog: New page: Compilation - Sep 14, 2019, 3:03:52 PM
+[2019.09.14-21.03.52:089][596]CompilerResultsLog: Creating makefile for AnimGAEditor (ini files are newer than makefile)
+[2019.09.14-21.03.52:090][596]CompilerResultsLog: Parsing headers for AnimGAEditor
+[2019.09.14-21.03.52:090][596]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Alexandre\Desktop\AnimGA\AnimGA.uproject" "C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\AnimGAEditor\Development\AnimGAEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.09.14-21.03.52:091][596]CompilerResultsLog: Reflection code generated for AnimGAEditor in 22,8981323 seconds
+[2019.09.14-21.03.52:092][596]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.09.14-21.03.52:093][596]CompilerResultsLog: Building 6 actions with 8 processes...
+[2019.09.14-21.03.52:093][596]CompilerResultsLog:   [1/6] AnimGA.init.gen.cpp
+[2019.09.14-21.03.52:093][596]CompilerResultsLog:   [2/6] SpectralVisualizer.gen.cpp
+[2019.09.14-21.03.52:093][596]CompilerResultsLog:   [3/6] SpectralVisualizer.cpp
+[2019.09.14-21.03.52:093][596]CompilerResultsLog:    C:\Users\Alexandre\Desktop\AnimGA\Source\AnimGA\SpectralVisualizer.cpp(52) : error C2248: 'UStaticMeshComponent::StaticMesh': n?o ? poss?vel acessar private membro declarado na classe 'UStaticMeshComponent'
+[2019.09.14-21.03.52:094][596]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/StaticMeshComponent.h(197): note: consulte a declara??o de 'UStaticMeshComponent::StaticMesh'
+[2019.09.14-21.03.52:094][596]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/StaticMeshComponent.h(171): note: consulte a declara??o de 'UStaticMeshComponent'
+[2019.09.14-21.03.52:094][596]CompilerResultsLog:    C:\Users\Alexandre\Desktop\AnimGA\Source\AnimGA\SpectralVisualizer.cpp(52) : error C2039: 'PositionVertexBuffer': n?o ? um membro de 'FStaticMeshLODResources'
+[2019.09.14-21.03.52:094][596]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/StaticMesh.h(34): note: consulte a declara??o de 'FStaticMeshLODResources'
+[2019.09.14-21.03.52:095][596]LogMainFrame: MainFrame: Module compiling took 30.420 seconds
+[2019.09.14-21.03.52:095][596]Warning: HotReload failed, recompile failed
+[2019.09.14-21.04.26:346][703]Candidate modules for hot reload:
+[2019.09.14-21.04.26:346][703]  AnimGA
+[2019.09.14-21.04.26:346][703]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=AnimGA,9460 Win64 Development -TargetType=Editor -Project="C:/Users/Alexandre/Desktop/AnimGA/AnimGA.uproject" "C:/Users/Alexandre/Desktop/AnimGA/AnimGA.uproject"  -IgnoreJunk]
+[2019.09.14-21.04.26:350][703]Warning: Starting HotReload took  0.0s.
+[2019.09.14-21.04.38:122][ 27]CompilerResultsLog: New page: Compilation - Sep 14, 2019, 3:04:38 PM
+[2019.09.14-21.04.38:122][ 27]CompilerResultsLog: Parsing headers for AnimGAEditor
+[2019.09.14-21.04.38:122][ 27]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Alexandre\Desktop\AnimGA\AnimGA.uproject" "C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\AnimGAEditor\Development\AnimGAEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.09.14-21.04.38:123][ 27]CompilerResultsLog: Reflection code generated for AnimGAEditor in 7,5694564 seconds
+[2019.09.14-21.04.38:123][ 27]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.09.14-21.04.38:123][ 27]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.09.14-21.04.38:124][ 27]CompilerResultsLog:   [1/4] SpectralVisualizer.cpp
+[2019.09.14-21.04.38:124][ 27]CompilerResultsLog:    C:\Users\Alexandre\Desktop\AnimGA\Source\AnimGA\SpectralVisualizer.cpp(52) : error C2248: 'UStaticMeshComponent::StaticMesh': n?o ? poss?vel acessar private membro declarado na classe 'UStaticMeshComponent'
+[2019.09.14-21.04.38:124][ 27]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/StaticMeshComponent.h(197): note: consulte a declara??o de 'UStaticMeshComponent::StaticMesh'
+[2019.09.14-21.04.38:124][ 27]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/StaticMeshComponent.h(171): note: consulte a declara??o de 'UStaticMeshComponent'
+[2019.09.14-21.04.38:125][ 27]CompilerResultsLog:    C:\Users\Alexandre\Desktop\AnimGA\Source\AnimGA\SpectralVisualizer.cpp(52) : error C2039: 'PositionVertexBuffer': n?o ? um membro de 'FStaticMeshLODResources'
+[2019.09.14-21.04.38:125][ 27]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/StaticMesh.h(34): note: consulte a declara??o de 'FStaticMeshLODResources'
+[2019.09.14-21.04.38:125][ 27]LogMainFrame: MainFrame: Module compiling took 11.783 seconds
+[2019.09.14-21.04.38:126][ 27]Warning: HotReload failed, recompile failed
+[2019.09.14-21.13.34:650][798]LogSlate: Window 'Message Log' being destroyed
+[2019.09.14-21.13.34:653][798]LogSlate: Window 'Message Log' being destroyed
+[2019.09.14-21.15.46:853][345]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.14-21.15.46:986][358]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.09.14-21.15.48:261][510]Candidate modules for hot reload:
+[2019.09.14-21.15.48:261][510]  AnimGA
+[2019.09.14-21.15.48:262][510]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=AnimGA,7008 Win64 Development -TargetType=Editor -Project="C:/Users/Alexandre/Desktop/AnimGA/AnimGA.uproject" "C:/Users/Alexandre/Desktop/AnimGA/AnimGA.uproject"  -IgnoreJunk]
+[2019.09.14-21.15.48:265][510]Warning: Starting HotReload took  0.0s.
+[2019.09.14-21.16.00:050][766]CompilerResultsLog: New page: Compilation - Sep 14, 2019, 3:16:00 PM
+[2019.09.14-21.16.00:051][766]CompilerResultsLog: Parsing headers for AnimGAEditor
+[2019.09.14-21.16.00:051][766]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Alexandre\Desktop\AnimGA\AnimGA.uproject" "C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\AnimGAEditor\Development\AnimGAEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.09.14-21.16.00:052][766]CompilerResultsLog: Reflection code generated for AnimGAEditor in 7,6848215 seconds
+[2019.09.14-21.16.00:052][766]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.09.14-21.16.00:053][766]CompilerResultsLog: Building 5 actions with 8 processes...
+[2019.09.14-21.16.00:053][766]CompilerResultsLog:   [1/5] SpectralVisualizer.gen.cpp
+[2019.09.14-21.16.00:053][766]CompilerResultsLog:   [2/5] SpectralVisualizer.cpp
+[2019.09.14-21.16.00:053][766]CompilerResultsLog:    C:\Users\Alexandre\Desktop\AnimGA\Source\AnimGA\SpectralVisualizer.cpp(52) : error C2248: 'UStaticMeshComponent::StaticMesh': n?o ? poss?vel acessar private membro declarado na classe 'UStaticMeshComponent'
+[2019.09.14-21.16.00:054][766]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/StaticMeshComponent.h(197): note: consulte a declara??o de 'UStaticMeshComponent::StaticMesh'
+[2019.09.14-21.16.00:054][766]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/StaticMeshComponent.h(171): note: consulte a declara??o de 'UStaticMeshComponent'
+[2019.09.14-21.16.00:055][766]CompilerResultsLog:    C:\Users\Alexandre\Desktop\AnimGA\Source\AnimGA\SpectralVisualizer.cpp(52) : error C2039: 'PositionVertexBuffer': n?o ? um membro de 'FStaticMeshLODResources'
+[2019.09.14-21.16.00:055][766]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/StaticMesh.h(34): note: consulte a declara??o de 'FStaticMeshLODResources'
+[2019.09.14-21.16.00:056][766]CompilerResultsLog:    C:\Users\Alexandre\Desktop\AnimGA\Source\AnimGA\SpectralVisualizer.cpp(75) : error C2248: 'UStaticMeshComponent::StaticMesh': n?o ? poss?vel acessar private membro declarado na classe 'UStaticMeshComponent'
+[2019.09.14-21.16.00:056][766]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/StaticMeshComponent.h(197): note: consulte a declara??o de 'UStaticMeshComponent::StaticMesh'
+[2019.09.14-21.16.00:057][766]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/StaticMeshComponent.h(171): note: consulte a declara??o de 'UStaticMeshComponent'
+[2019.09.14-21.16.00:058][766]CompilerResultsLog:    C:\Users\Alexandre\Desktop\AnimGA\Source\AnimGA\SpectralVisualizer.cpp(76) : error C2248: 'UStaticMeshComponent::StaticMesh': n?o ? poss?vel acessar private membro declarado na classe 'UStaticMeshComponent'
+[2019.09.14-21.16.00:058][766]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/StaticMeshComponent.h(197): note: consulte a declara??o de 'UStaticMeshComponent::StaticMesh'
+[2019.09.14-21.16.00:059][766]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/StaticMeshComponent.h(171): note: consulte a declara??o de 'UStaticMeshComponent'
+[2019.09.14-21.16.00:059][766]CompilerResultsLog:    C:\Users\Alexandre\Desktop\AnimGA\Source\AnimGA\SpectralVisualizer.cpp(78) : error C2248: 'UStaticMeshComponent::StaticMesh': n?o ? poss?vel acessar private membro declarado na classe 'UStaticMeshComponent'
+[2019.09.14-21.16.00:060][766]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/StaticMeshComponent.h(197): note: consulte a declara??o de 'UStaticMeshComponent::StaticMesh'
+[2019.09.14-21.16.00:061][766]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/StaticMeshComponent.h(171): note: consulte a declara??o de 'UStaticMeshComponent'
+[2019.09.14-21.16.00:061][766]CompilerResultsLog:   C:\Users\Alexandre\Desktop\AnimGA\Source\AnimGA\SpectralVisualizer.cpp(80): warning C4458: a declara??o de 'VertexBuffer' oculta o membro da classe
+[2019.09.14-21.16.00:062][766]CompilerResultsLog:   c:\users\alexandre\desktop\animga\source\animga\SpectralVisualizer.h(43): note: consulte a declara??o de 'ASpectralVisualizer::VertexBuffer'
+[2019.09.14-21.16.00:062][766]CompilerResultsLog:    C:\Users\Alexandre\Desktop\AnimGA\Source\AnimGA\SpectralVisualizer.cpp(80) : error C2248: 'UStaticMeshComponent::StaticMesh': n?o ? poss?vel acessar private membro declarado na classe 'UStaticMeshComponent'
+[2019.09.14-21.16.00:063][766]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/StaticMeshComponent.h(197): note: consulte a declara??o de 'UStaticMeshComponent::StaticMesh'
+[2019.09.14-21.16.00:063][766]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/StaticMeshComponent.h(171): note: consulte a declara??o de 'UStaticMeshComponent'
+[2019.09.14-21.16.00:064][766]CompilerResultsLog:    C:\Users\Alexandre\Desktop\AnimGA\Source\AnimGA\SpectralVisualizer.cpp(80) : error C2039: 'PositionVertexBuffer': n?o ? um membro de 'FStaticMeshLODResources'
+[2019.09.14-21.16.00:065][766]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/StaticMesh.h(34): note: consulte a declara??o de 'FStaticMeshLODResources'
+[2019.09.14-21.16.00:065][766]LogMainFrame: MainFrame: Module compiling took 11.807 seconds
+[2019.09.14-21.16.00:066][766]Warning: HotReload failed, recompile failed
+[2019.09.14-21.16.03:132][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.14-21.16.07:804][445]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.14-21.20.46:628][297]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.14-21.20.47:560][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.14-21.20.47:707][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.09.14-21.20.48:799][536]Candidate modules for hot reload:
+[2019.09.14-21.20.48:799][536]  AnimGA
+[2019.09.14-21.20.48:800][536]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=AnimGA,694 Win64 Development -TargetType=Editor -Project="C:/Users/Alexandre/Desktop/AnimGA/AnimGA.uproject" "C:/Users/Alexandre/Desktop/AnimGA/AnimGA.uproject"  -IgnoreJunk]
+[2019.09.14-21.20.48:804][536]Warning: Starting HotReload took  0.0s.
+[2019.09.14-21.21.02:134][106]CompilerResultsLog: New page: Compilation - Sep 14, 2019, 3:21:02 PM
+[2019.09.14-21.21.02:134][106]CompilerResultsLog: Parsing headers for AnimGAEditor
+[2019.09.14-21.21.02:134][106]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Alexandre\Desktop\AnimGA\AnimGA.uproject" "C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\AnimGAEditor\Development\AnimGAEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.09.14-21.21.02:135][106]CompilerResultsLog: Reflection code generated for AnimGAEditor in 8,7878959 seconds
+[2019.09.14-21.21.02:135][106]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.09.14-21.21.02:135][106]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.09.14-21.21.02:135][106]CompilerResultsLog:   [1/4] SpectralVisualizer.cpp
+[2019.09.14-21.21.02:135][106]CompilerResultsLog:    C:\Users\Alexandre\Desktop\AnimGA\Source\AnimGA\SpectralVisualizer.cpp(77) : error C2276: '!': opera??o inv?lida na express?o de fun??o membro associada
+[2019.09.14-21.21.02:136][106]CompilerResultsLog:   C:\Users\Alexandre\Desktop\AnimGA\Source\AnimGA\SpectralVisualizer.cpp(82): warning C4458: a declara??o de 'VertexBuffer' oculta o membro da classe
+[2019.09.14-21.21.02:136][106]CompilerResultsLog:   c:\users\alexandre\desktop\animga\source\animga\SpectralVisualizer.h(43): note: consulte a declara??o de 'ASpectralVisualizer::VertexBuffer'
+[2019.09.14-21.21.02:136][106]LogMainFrame: MainFrame: Module compiling took 13.340 seconds
+[2019.09.14-21.21.02:136][106]Warning: HotReload failed, recompile failed
+[2019.09.14-21.21.28:781][283]LogSlate: Window 'Message Log' being destroyed
+[2019.09.14-21.21.28:784][283]LogSlate: Window 'Message Log' being destroyed
+[2019.09.14-21.21.29:727][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.14-21.21.29:874][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.09.14-21.21.31:507][606]Candidate modules for hot reload:
+[2019.09.14-21.21.31:507][606]  AnimGA
+[2019.09.14-21.21.31:507][606]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=AnimGA,2193 Win64 Development -TargetType=Editor -Project="C:/Users/Alexandre/Desktop/AnimGA/AnimGA.uproject" "C:/Users/Alexandre/Desktop/AnimGA/AnimGA.uproject"  -IgnoreJunk]
+[2019.09.14-21.21.31:511][606]Warning: Starting HotReload took  0.0s.
+[2019.09.14-21.21.44:059][ 23]CompilerResultsLog: New page: Compilation - Sep 14, 2019, 3:21:44 PM
+[2019.09.14-21.21.44:059][ 23]CompilerResultsLog: Parsing headers for AnimGAEditor
+[2019.09.14-21.21.44:060][ 23]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Alexandre\Desktop\AnimGA\AnimGA.uproject" "C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\AnimGAEditor\Development\AnimGAEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.09.14-21.21.44:061][ 23]CompilerResultsLog: Reflection code generated for AnimGAEditor in 8,0378985 seconds
+[2019.09.14-21.21.44:061][ 23]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.09.14-21.21.44:062][ 23]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.09.14-21.21.44:063][ 23]CompilerResultsLog:   [1/4] SpectralVisualizer.cpp
+[2019.09.14-21.21.44:063][ 23]CompilerResultsLog:    C:\Users\Alexandre\Desktop\AnimGA\Source\AnimGA\SpectralVisualizer.cpp(80) : error C2227: esquerda de '->RenderData' deve apontar para tipo class/struct/union/generic
+[2019.09.14-21.21.44:063][ 23]CompilerResultsLog:   C:\Users\Alexandre\Desktop\AnimGA\Source\AnimGA\SpectralVisualizer.cpp(82): warning C4458: a declara??o de 'VertexBuffer' oculta o membro da classe
+[2019.09.14-21.21.44:064][ 23]CompilerResultsLog:   c:\users\alexandre\desktop\animga\source\animga\SpectralVisualizer.h(43): note: consulte a declara??o de 'ASpectralVisualizer::VertexBuffer'
+[2019.09.14-21.21.44:065][ 23]LogMainFrame: MainFrame: Module compiling took 12.561 seconds
+[2019.09.14-21.21.44:066][ 23]Warning: HotReload failed, recompile failed
+[2019.09.14-21.22.58:259][ 18]LogSlate: Window 'Message Log' being destroyed
+[2019.09.14-21.22.58:262][ 18]LogSlate: Window 'Message Log' being destroyed
+[2019.09.14-21.22.59:284][140]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.14-21.22.59:420][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.09.14-21.23.00:729][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.09.14-21.23.01:950][453]Candidate modules for hot reload:
+[2019.09.14-21.23.01:950][453]  AnimGA
+[2019.09.14-21.23.01:950][453]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=AnimGA,2825 Win64 Development -TargetType=Editor -Project="C:/Users/Alexandre/Desktop/AnimGA/AnimGA.uproject" "C:/Users/Alexandre/Desktop/AnimGA/AnimGA.uproject"  -IgnoreJunk]
+[2019.09.14-21.23.01:955][453]Warning: Starting HotReload took  0.0s.
+[2019.09.14-21.23.14:132][549]CompilerResultsLog: New page: Compilation - Sep 14, 2019, 3:23:14 PM
+[2019.09.14-21.23.14:133][549]CompilerResultsLog: Parsing headers for AnimGAEditor
+[2019.09.14-21.23.14:133][549]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Alexandre\Desktop\AnimGA\AnimGA.uproject" "C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\AnimGAEditor\Development\AnimGAEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.09.14-21.23.14:135][549]CompilerResultsLog: Reflection code generated for AnimGAEditor in 7,8200809 seconds
+[2019.09.14-21.23.14:135][549]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.09.14-21.23.14:136][549]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.09.14-21.23.14:136][549]CompilerResultsLog:   [1/4] SpectralVisualizer.cpp
+[2019.09.14-21.23.14:136][549]CompilerResultsLog:   C:\Users\Alexandre\Desktop\AnimGA\Source\AnimGA\SpectralVisualizer.cpp(80): warning C4458: a declara??o de 'VertexBuffer' oculta o membro da classe
+[2019.09.14-21.23.14:137][549]CompilerResultsLog:   c:\users\alexandre\desktop\animga\source\animga\SpectralVisualizer.h(43): note: consulte a declara??o de 'ASpectralVisualizer::VertexBuffer'
+[2019.09.14-21.23.14:138][549]CompilerResultsLog:    C:\Users\Alexandre\Desktop\AnimGA\Source\AnimGA\SpectralVisualizer.cpp(80) : error C2227: esquerda de '->RenderData' deve apontar para tipo class/struct/union/generic
+[2019.09.14-21.23.14:138][549]LogMainFrame: MainFrame: Module compiling took 12.191 seconds
+[2019.09.14-21.23.14:139][549]Warning: HotReload failed, recompile failed
+[2019.09.14-21.24.55:454][583]LogSlate: Window 'Message Log' being destroyed
+[2019.09.14-21.24.55:458][583]LogSlate: Window 'Message Log' being destroyed
+[2019.09.14-21.24.57:480][708]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.14-21.24.57:618][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.09.14-21.24.58:709][852]Candidate modules for hot reload:
+[2019.09.14-21.24.58:709][852]  AnimGA
+[2019.09.14-21.24.58:709][852]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=AnimGA,3708 Win64 Development -TargetType=Editor -Project="C:/Users/Alexandre/Desktop/AnimGA/AnimGA.uproject" "C:/Users/Alexandre/Desktop/AnimGA/AnimGA.uproject"  -IgnoreJunk]
+[2019.09.14-21.24.58:713][852]Warning: Starting HotReload took  0.0s.
+[2019.09.14-21.25.10:852][106]CompilerResultsLog: New page: Compilation - Sep 14, 2019, 3:25:10 PM
+[2019.09.14-21.25.10:852][106]CompilerResultsLog: Parsing headers for AnimGAEditor
+[2019.09.14-21.25.10:853][106]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Alexandre\Desktop\AnimGA\AnimGA.uproject" "C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\AnimGAEditor\Development\AnimGAEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.09.14-21.25.10:854][106]CompilerResultsLog: Reflection code generated for AnimGAEditor in 7,6800461 seconds
+[2019.09.14-21.25.10:854][106]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.09.14-21.25.10:855][106]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.09.14-21.25.10:855][106]CompilerResultsLog:   [1/4] SpectralVisualizer.cpp
+[2019.09.14-21.25.10:855][106]CompilerResultsLog:   C:\Users\Alexandre\Desktop\AnimGA\Source\AnimGA\SpectralVisualizer.cpp(80): warning C4458: a declara??o de 'VertexBuffer' oculta o membro da classe
+[2019.09.14-21.25.10:856][106]CompilerResultsLog:   c:\users\alexandre\desktop\animga\source\animga\SpectralVisualizer.h(43): note: consulte a declara??o de 'ASpectralVisualizer::VertexBuffer'
+[2019.09.14-21.25.10:856][106]CompilerResultsLog:    C:\Users\Alexandre\Desktop\AnimGA\Source\AnimGA\SpectralVisualizer.cpp(80) : error C2227: esquerda de '->RenderData' deve apontar para tipo class/struct/union/generic
+[2019.09.14-21.25.10:857][106]LogMainFrame: MainFrame: Module compiling took 12.152 seconds
+[2019.09.14-21.25.10:858][106]Warning: HotReload failed, recompile failed
+[2019.09.14-21.25.32:055][412]LogSlate: Window 'Message Log' being destroyed
+[2019.09.14-21.25.32:059][412]LogSlate: Window 'Message Log' being destroyed
+[2019.09.14-21.28.16:428][116]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.09.14-21.28.16:428][116]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.09.14-21.28.17:759][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.14-21.28.17:894][275]Candidate modules for hot reload:
+[2019.09.14-21.28.17:894][275]  AnimGA
+[2019.09.14-21.28.17:895][275]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=AnimGA,5246 Win64 Development -TargetType=Editor -Project="C:/Users/Alexandre/Desktop/AnimGA/AnimGA.uproject" "C:/Users/Alexandre/Desktop/AnimGA/AnimGA.uproject"  -IgnoreJunk]
+[2019.09.14-21.28.17:899][275]Warning: Starting HotReload took  0.0s.
+[2019.09.14-21.28.30:715][720]CompilerResultsLog: New page: Compilation - Sep 14, 2019, 3:28:30 PM
+[2019.09.14-21.28.30:716][720]CompilerResultsLog: Parsing headers for AnimGAEditor
+[2019.09.14-21.28.30:716][720]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Alexandre\Desktop\AnimGA\AnimGA.uproject" "C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\AnimGAEditor\Development\AnimGAEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.09.14-21.28.30:717][720]CompilerResultsLog: Reflection code generated for AnimGAEditor in 8,382702 seconds
+[2019.09.14-21.28.30:717][720]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.09.14-21.28.30:718][720]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.09.14-21.28.30:718][720]CompilerResultsLog:   [1/4] SpectralVisualizer.cpp
+[2019.09.14-21.28.30:718][720]CompilerResultsLog:   C:\Users\Alexandre\Desktop\AnimGA\Source\AnimGA\SpectralVisualizer.cpp(80): warning C4458: a declara??o de 'VertexBuffer' oculta o membro da classe
+[2019.09.14-21.28.30:719][720]CompilerResultsLog:   c:\users\alexandre\desktop\animga\source\animga\SpectralVisualizer.h(43): note: consulte a declara??o de 'ASpectralVisualizer::VertexBuffer'
+[2019.09.14-21.28.30:719][720]CompilerResultsLog:    C:\Users\Alexandre\Desktop\AnimGA\Source\AnimGA\SpectralVisualizer.cpp(80) : error C2227: esquerda de '->RenderData' deve apontar para tipo class/struct/union/generic
+[2019.09.14-21.28.30:720][720]LogMainFrame: MainFrame: Module compiling took 12.829 seconds
+[2019.09.14-21.28.30:720][720]Warning: HotReload failed, recompile failed
+[2019.09.14-21.28.41:968][392]LogSlate: Window 'Message Log' being destroyed
+[2019.09.14-21.28.41:972][392]LogSlate: Window 'Message Log' being destroyed
+[2019.09.14-21.31.10:076][714]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.14-21.31.10:255][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.09.14-21.31.11:522][884]Candidate modules for hot reload:
+[2019.09.14-21.31.11:522][884]  AnimGA
+[2019.09.14-21.31.11:522][884]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=AnimGA,6241 Win64 Development -TargetType=Editor -Project="C:/Users/Alexandre/Desktop/AnimGA/AnimGA.uproject" "C:/Users/Alexandre/Desktop/AnimGA/AnimGA.uproject"  -IgnoreJunk]
+[2019.09.14-21.31.11:526][884]Warning: Starting HotReload took  0.0s.
+[2019.09.14-21.31.23:332][173]CompilerResultsLog: New page: Compilation - Sep 14, 2019, 3:31:23 PM
+[2019.09.14-21.31.23:332][173]CompilerResultsLog: Parsing headers for AnimGAEditor
+[2019.09.14-21.31.23:332][173]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Alexandre\Desktop\AnimGA\AnimGA.uproject" "C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\AnimGAEditor\Development\AnimGAEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.09.14-21.31.23:333][173]CompilerResultsLog: Reflection code generated for AnimGAEditor in 7,8389913 seconds
+[2019.09.14-21.31.23:333][173]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.09.14-21.31.23:333][173]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.09.14-21.31.23:333][173]CompilerResultsLog:   [1/4] SpectralVisualizer.cpp
+[2019.09.14-21.31.23:333][173]CompilerResultsLog:   C:\Users\Alexandre\Desktop\AnimGA\Source\AnimGA\SpectralVisualizer.cpp(80): warning C4458: a declara??o de 'VertexBuffer' oculta o membro da classe
+[2019.09.14-21.31.23:333][173]CompilerResultsLog:   c:\users\alexandre\desktop\animga\source\animga\SpectralVisualizer.h(43): note: consulte a declara??o de 'ASpectralVisualizer::VertexBuffer'
+[2019.09.14-21.31.23:334][173]CompilerResultsLog:    C:\Users\Alexandre\Desktop\AnimGA\Source\AnimGA\SpectralVisualizer.cpp(80) : error C2227: esquerda de '->RenderData' deve apontar para tipo class/struct/union/generic
+[2019.09.14-21.31.23:334][173]LogMainFrame: MainFrame: Module compiling took 11.815 seconds
+[2019.09.14-21.31.23:334][173]Warning: HotReload failed, recompile failed
+[2019.09.14-21.31.39:036][437]LogSlate: Window 'Message Log' being destroyed
+[2019.09.14-21.31.39:039][437]LogSlate: Window 'Message Log' being destroyed
+[2019.09.14-21.32.28:357][884]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.14-21.32.28:485][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.09.14-21.32.29:711][ 43]Candidate modules for hot reload:
+[2019.09.14-21.32.29:711][ 43]  AnimGA
+[2019.09.14-21.32.29:712][ 43]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=AnimGA,7216 Win64 Development -TargetType=Editor -Project="C:/Users/Alexandre/Desktop/AnimGA/AnimGA.uproject" "C:/Users/Alexandre/Desktop/AnimGA/AnimGA.uproject"  -IgnoreJunk]
+[2019.09.14-21.32.29:716][ 43]Warning: Starting HotReload took  0.0s.
+[2019.09.14-21.32.43:416][658]CompilerResultsLog: New page: Compilation - Sep 14, 2019, 3:32:43 PM
+[2019.09.14-21.32.43:416][658]CompilerResultsLog: Parsing headers for AnimGAEditor
+[2019.09.14-21.32.43:416][658]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Alexandre\Desktop\AnimGA\AnimGA.uproject" "C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\AnimGAEditor\Development\AnimGAEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.09.14-21.32.43:417][658]CompilerResultsLog: Reflection code generated for AnimGAEditor in 8,9799634 seconds
+[2019.09.14-21.32.43:417][658]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.09.14-21.32.43:417][658]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.09.14-21.32.43:417][658]CompilerResultsLog:   [1/4] SpectralVisualizer.cpp
+[2019.09.14-21.32.43:417][658]CompilerResultsLog:   C:\Users\Alexandre\Desktop\AnimGA\Source\AnimGA\SpectralVisualizer.cpp(80): warning C4458: a declara??o de 'VertexBuffer' oculta o membro da classe
+[2019.09.14-21.32.43:418][658]CompilerResultsLog:   c:\users\alexandre\desktop\animga\source\animga\SpectralVisualizer.h(43): note: consulte a declara??o de 'ASpectralVisualizer::VertexBuffer'
+[2019.09.14-21.32.43:418][658]CompilerResultsLog:    C:\Users\Alexandre\Desktop\AnimGA\Source\AnimGA\SpectralVisualizer.cpp(80) : error C2227: esquerda de '->RenderData' deve apontar para tipo class/struct/union/generic
+[2019.09.14-21.32.43:418][658]LogMainFrame: MainFrame: Module compiling took 13.710 seconds
+[2019.09.14-21.32.43:418][658]Warning: HotReload failed, recompile failed
+[2019.09.14-21.32.48:024][205]LogSlate: Window 'Message Log' being destroyed
+[2019.09.14-21.32.48:029][205]LogSlate: Window 'Message Log' being destroyed
+[2019.09.14-21.32.55:559][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.14-21.32.55:635][406]Candidate modules for hot reload:
+[2019.09.14-21.32.55:635][406]  AnimGA
+[2019.09.14-21.32.55:635][406]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=AnimGA,3679 Win64 Development -TargetType=Editor -Project="C:/Users/Alexandre/Desktop/AnimGA/AnimGA.uproject" "C:/Users/Alexandre/Desktop/AnimGA/AnimGA.uproject"  -IgnoreJunk]
+[2019.09.14-21.32.55:639][406]Warning: Starting HotReload took  0.0s.
+[2019.09.14-21.33.07:669][604]CompilerResultsLog: New page: Compilation - Sep 14, 2019, 3:33:07 PM
+[2019.09.14-21.33.07:669][604]CompilerResultsLog: Parsing headers for AnimGAEditor
+[2019.09.14-21.33.07:670][604]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Alexandre\Desktop\AnimGA\AnimGA.uproject" "C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\AnimGAEditor\Development\AnimGAEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.09.14-21.33.07:671][604]CompilerResultsLog: Reflection code generated for AnimGAEditor in 7,7589224 seconds
+[2019.09.14-21.33.07:672][604]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.09.14-21.33.07:673][604]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.09.14-21.33.07:673][604]CompilerResultsLog:   [1/4] SpectralVisualizer.cpp
+[2019.09.14-21.33.07:673][604]CompilerResultsLog:   C:\Users\Alexandre\Desktop\AnimGA\Source\AnimGA\SpectralVisualizer.cpp(80): warning C4458: a declara??o de 'VertexBuffer' oculta o membro da classe
+[2019.09.14-21.33.07:674][604]CompilerResultsLog:   c:\users\alexandre\desktop\animga\source\animga\SpectralVisualizer.h(43): note: consulte a declara??o de 'ASpectralVisualizer::VertexBuffer'
+[2019.09.14-21.33.07:674][604]CompilerResultsLog:    C:\Users\Alexandre\Desktop\AnimGA\Source\AnimGA\SpectralVisualizer.cpp(80) : error C2440: 'inicializando': n?o ? poss?vel converter de 'FStaticMeshVertexBuffers *' para 'FPositionVertexBuffer *'
+[2019.09.14-21.33.07:675][604]CompilerResultsLog:   C:\Users\Alexandre\Desktop\AnimGA\Source\AnimGA\SpectralVisualizer.cpp(80): note: Tipos apontados n?o s?o relacionados; convers?o requer reinterpret_cast, convers?o C-style ou convers?o function-style
+[2019.09.14-21.33.07:675][604]LogMainFrame: MainFrame: Module compiling took 12.043 seconds
+[2019.09.14-21.33.07:676][604]Warning: HotReload failed, recompile failed
+[2019.09.14-21.35.18:328][126]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.09.14-21.35.18:329][126]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.09.14-21.39.34:580][346]LogSlate: Window 'Message Log' being destroyed
+[2019.09.14-21.39.34:585][346]LogSlate: Window 'Message Log' being destroyed
+[2019.09.14-21.39.35:303][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.14-21.39.35:459][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2019.09.14-21.39.36:893][619]Candidate modules for hot reload:
+[2019.09.14-21.39.36:894][619]  AnimGA
+[2019.09.14-21.39.36:894][619]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=AnimGA,1485 Win64 Development -TargetType=Editor -Project="C:/Users/Alexandre/Desktop/AnimGA/AnimGA.uproject" "C:/Users/Alexandre/Desktop/AnimGA/AnimGA.uproject"  -IgnoreJunk]
+[2019.09.14-21.39.36:898][619]Warning: Starting HotReload took  0.0s.
+[2019.09.14-21.39.48:954][783]CompilerResultsLog: New page: Compilation - Sep 14, 2019, 3:39:48 PM
+[2019.09.14-21.39.48:954][783]CompilerResultsLog: Parsing headers for AnimGAEditor
+[2019.09.14-21.39.48:954][783]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Alexandre\Desktop\AnimGA\AnimGA.uproject" "C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\AnimGAEditor\Development\AnimGAEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.09.14-21.39.48:954][783]CompilerResultsLog: Reflection code generated for AnimGAEditor in 7,7289119 seconds
+[2019.09.14-21.39.48:955][783]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.09.14-21.39.48:955][783]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.09.14-21.39.48:955][783]CompilerResultsLog:   [1/4] SpectralVisualizer.cpp
+[2019.09.14-21.39.48:955][783]CompilerResultsLog:    c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Logging/LogMacros.h(58) : error C2338: Invalid argument(s) passed to FMsg::Logf_Internal
+[2019.09.14-21.39.48:955][783]CompilerResultsLog:   C:\Users\Alexandre\Desktop\AnimGA\Source\AnimGA\SpectralVisualizer.cpp(89): note: consulte a refer?ncia ? instancia??o da fun??o modelo 'void FMsg::Logf_Internal<wchar_t[13],FString>(const ANSICHAR *,int32,const FName &,ELogVerbosity::Type,const FmtType (&),FString)' que est? sendo compilada
+[2019.09.14-21.39.48:956][783]CompilerResultsLog:           with
+[2019.09.14-21.39.48:956][783]CompilerResultsLog:           [
+[2019.09.14-21.39.48:956][783]CompilerResultsLog:               FmtType=wchar_t [13]
+[2019.09.14-21.39.48:956][783]CompilerResultsLog:           ]
+[2019.09.14-21.39.48:956][783]CompilerResultsLog:    c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Logging/LogMacros.h(60) : error C4840: o uso n?o port?til da classe 'FString' como um argumento para uma fun??o variadic
+[2019.09.14-21.39.48:956][783]CompilerResultsLog:   c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Logging/LogMacros.h(60): note: 'FString::FString' ? n?o trivial
+[2019.09.14-21.39.48:957][783]CompilerResultsLog:   c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Containers/UnrealString.h(73): note: consulte a declara??o de 'FString::FString'
+[2019.09.14-21.39.48:957][783]CompilerResultsLog:   c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Logging/LogMacros.h(60): note: o construtor e o destruidor n?o ser?o chamados; uma c?pia bit a bit da classe ser? passada como o argumento
+[2019.09.14-21.39.48:957][783]CompilerResultsLog:   c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Windows/WindowsCriticalSection.h(9): note: consulte a declara??o de 'FString'
+[2019.09.14-21.39.48:957][783]LogMainFrame: MainFrame: Module compiling took 12.066 seconds
+[2019.09.14-21.39.48:957][783]Warning: HotReload failed, recompile failed
+[2019.09.14-21.40.04:010][991]LogSlate: Window 'Message Log' being destroyed
+[2019.09.14-21.40.04:013][991]LogSlate: Window 'Message Log' being destroyed
+[2019.09.14-21.40.22:057][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.14-21.40.22:237][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.09.14-21.40.23:928][602]Candidate modules for hot reload:
+[2019.09.14-21.40.23:929][602]  AnimGA
+[2019.09.14-21.40.23:929][602]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=AnimGA,5715 Win64 Development -TargetType=Editor -Project="C:/Users/Alexandre/Desktop/AnimGA/AnimGA.uproject" "C:/Users/Alexandre/Desktop/AnimGA/AnimGA.uproject"  -IgnoreJunk]
+[2019.09.14-21.40.23:933][602]Warning: Starting HotReload took  0.0s.
+[2019.09.14-21.40.35:816][823]CompilerResultsLog: New page: Compilation - Sep 14, 2019, 3:40:35 PM
+[2019.09.14-21.40.35:816][823]CompilerResultsLog: Parsing headers for AnimGAEditor
+[2019.09.14-21.40.35:816][823]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Alexandre\Desktop\AnimGA\AnimGA.uproject" "C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\AnimGAEditor\Development\AnimGAEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.09.14-21.40.35:817][823]CompilerResultsLog: Reflection code generated for AnimGAEditor in 7,3605075 seconds
+[2019.09.14-21.40.35:817][823]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.09.14-21.40.35:817][823]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.09.14-21.40.35:817][823]CompilerResultsLog:   [1/4] SpectralVisualizer.cpp
+[2019.09.14-21.40.35:817][823]CompilerResultsLog:    c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Logging/LogMacros.h(58) : error C2338: Invalid argument(s) passed to FMsg::Logf_Internal
+[2019.09.14-21.40.35:818][823]CompilerResultsLog:   C:\Users\Alexandre\Desktop\AnimGA\Source\AnimGA\SpectralVisualizer.cpp(89): note: consulte a refer?ncia ? instancia??o da fun??o modelo 'void FMsg::Logf_Internal<wchar_t[13],FString>(const ANSICHAR *,int32,const FName &,ELogVerbosity::Type,const FmtType (&),FString)' que est? sendo compilada
+[2019.09.14-21.40.35:818][823]CompilerResultsLog:           with
+[2019.09.14-21.40.35:818][823]CompilerResultsLog:           [
+[2019.09.14-21.40.35:818][823]CompilerResultsLog:               FmtType=wchar_t [13]
+[2019.09.14-21.40.35:818][823]CompilerResultsLog:           ]
+[2019.09.14-21.40.35:818][823]CompilerResultsLog:    c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Logging/LogMacros.h(60) : error C4840: o uso n?o port?til da classe 'FString' como um argumento para uma fun??o variadic
+[2019.09.14-21.40.35:819][823]CompilerResultsLog:   c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Logging/LogMacros.h(60): note: 'FString::FString' ? n?o trivial
+[2019.09.14-21.40.35:819][823]CompilerResultsLog:   c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Containers/UnrealString.h(73): note: consulte a declara??o de 'FString::FString'
+[2019.09.14-21.40.35:819][823]CompilerResultsLog:   c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Logging/LogMacros.h(60): note: o construtor e o destruidor n?o ser?o chamados; uma c?pia bit a bit da classe ser? passada como o argumento
+[2019.09.14-21.40.35:819][823]CompilerResultsLog:   c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Windows/WindowsCriticalSection.h(9): note: consulte a declara??o de 'FString'
+[2019.09.14-21.40.35:819][823]LogMainFrame: MainFrame: Module compiling took 11.894 seconds
+[2019.09.14-21.40.35:820][823]Warning: HotReload failed, recompile failed
+[2019.09.14-21.41.12:523][681]LogSlate: Window 'Message Log' being destroyed
+[2019.09.14-21.41.12:527][681]LogSlate: Window 'Message Log' being destroyed
+[2019.09.14-21.41.13:646][815]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.14-21.41.13:807][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.09.14-21.41.56:006][ 48]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.09.14-21.41.56:007][ 48]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.09.14-21.41.56:777][103]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.14-21.41.56:924][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.09.14-21.41.57:989][243]Candidate modules for hot reload:
+[2019.09.14-21.41.57:990][243]  AnimGA
+[2019.09.14-21.41.57:990][243]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=AnimGA,4755 Win64 Development -TargetType=Editor -Project="C:/Users/Alexandre/Desktop/AnimGA/AnimGA.uproject" "C:/Users/Alexandre/Desktop/AnimGA/AnimGA.uproject"  -IgnoreJunk]
+[2019.09.14-21.41.57:996][243]Warning: Starting HotReload took  0.0s.
+[2019.09.14-21.42.14:534][148]CompilerResultsLog: New page: Compilation - Sep 14, 2019, 3:42:14 PM
+[2019.09.14-21.42.14:535][148]CompilerResultsLog: Parsing headers for AnimGAEditor
+[2019.09.14-21.42.14:535][148]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Alexandre\Desktop\AnimGA\AnimGA.uproject" "C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\AnimGAEditor\Development\AnimGAEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.09.14-21.42.14:535][148]CompilerResultsLog: Reflection code generated for AnimGAEditor in 9,2768459 seconds
+[2019.09.14-21.42.14:535][148]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.09.14-21.42.14:536][148]CompilerResultsLog: Building 6 actions with 8 processes...
+[2019.09.14-21.42.14:536][148]CompilerResultsLog:   [1/6] AnimGA.init.gen.cpp
+[2019.09.14-21.42.14:536][148]CompilerResultsLog:   [2/6] SpectralVisualizer.gen.cpp
+[2019.09.14-21.42.14:536][148]CompilerResultsLog:   [3/6] SpectralVisualizer.cpp
+[2019.09.14-21.42.14:536][148]CompilerResultsLog:   [4/6] UE4Editor-AnimGA-4755.lib
+[2019.09.14-21.42.14:536][148]CompilerResultsLog:      Criando biblioteca C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\UE4Editor\Development\AnimGA\UE4Editor-AnimGA-4755.lib e objeto C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\UE4Editor\Development\AnimGA\UE4Editor-AnimGA-4755.exp
+[2019.09.14-21.42.14:537][148]CompilerResultsLog:   [5/6] UE4Editor-AnimGA-4755.dll
+[2019.09.14-21.42.14:537][148]CompilerResultsLog:      Criando biblioteca C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\UE4Editor\Development\AnimGA\UE4Editor-AnimGA-4755.suppressed.lib e objeto C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\UE4Editor\Development\AnimGA\UE4Editor-AnimGA-4755.suppressed.exp
+[2019.09.14-21.42.14:537][148]CompilerResultsLog:   [6/6] AnimGAEditor.target
+[2019.09.14-21.42.14:537][148]CompilerResultsLog: Total time in Parallel executor: 5,52 seconds
+[2019.09.14-21.42.14:537][148]CompilerResultsLog: Total execution time: 16,44 seconds
+[2019.09.14-21.42.14:537][148]LogMainFrame: MainFrame: Module compiling took 16.550 seconds
+[2019.09.14-21.42.14:559][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.09.14-21.42.14:579][148]LogClass: Could not find existing class SpectralVisualizer in package /Script/AnimGA for HotReload, assuming new class
+[2019.09.14-21.42.14:590][148]LogHotReload: Re-instancing SpectralVisualizer after hot-reload.
+[2019.09.14-21.42.14:671][148]LogContentBrowser: Native class hierarchy updated for 'AnimGA' in 0.0005 seconds. Added 2 classes and 2 folders.
+[2019.09.14-21.42.14:674][148]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.09.14-21.42.14:728][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.09.14-21.42.14:743][148]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 2740 classes and 668 folders.
+[2019.09.14-21.42.14:743][148]Display: HotReload took 16.8s.
+[2019.09.14-21.44.33:067][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.14-21.44.33:217][759]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.14-21.44.33:232][759]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.09.14-21.44.33:233][759]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.14-21.44.33:233][759]PIE: New page: PIE session: Untitled (Sep 14, 2019, 3:44:33 PM)
+[2019.09.14-21.44.33:233][759]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2019.09.14-21.44.33:237][759]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003814s)
+[2019.09.14-21.44.33:238][759]LogAIModule: Creating AISystem for world Untitled
+[2019.09.14-21.44.33:238][759]LogPlayLevel: PIE: World Init took: (0.000926s)
+[2019.09.14-21.44.33:238][759]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.005107s)
+[2019.09.14-21.44.33:258][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.09.14-21.44.33:290][759]LogInit: XAudio2 using 'Alto-falantes (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.14-21.44.33:303][759]LogInit: FAudioDevice initialized.
+[2019.09.14-21.44.33:334][759]LogLoad: Game class is 'GameModeBase'
+[2019.09.14-21.44.33:339][759]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2019.09.14-18.44.33
+[2019.09.14-21.44.33:339][759]LogWorld: Bringing up level for play took: 0.003698
+[2019.09.14-21.44.36:114][759]LogWindows: Error: === Critical error: ===
+[2019.09.14-21.44.36:114][759]LogWindows: Error: 
+[2019.09.14-21.44.36:114][759]LogWindows: Error: Fatal error!
+[2019.09.14-21.44.36:114][759]LogWindows: Error: 
+[2019.09.14-21.44.36:114][759]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x00000048
+[2019.09.14-21.44.36:114][759]LogWindows: Error: 
+[2019.09.14-21.44.36:114][759]LogWindows: Error: [Callstack] 0x00007ff8a5c32a3a UE4Editor-AnimGA-4755.dll!ASpectralVisualizer::MeshData() [c:\users\alexandre\desktop\animga\source\animga\spectralvisualizer.cpp:80]
+[2019.09.14-21.44.36:114][759]LogWindows: Error: [Callstack] 0x00007ff8a5c32975 UE4Editor-AnimGA-4755.dll!ASpectralVisualizer::BeginPlay() [c:\users\alexandre\desktop\animga\source\animga\spectralvisualizer.cpp:67]
+[2019.09.14-21.44.36:114][759]LogWindows: Error: [Callstack] 0x00007ff876a91af6 UE4Editor-Engine.dll!UnknownFunction []
+[2019.09.14-21.44.36:114][759]LogWindows: Error: [Callstack] 0x00007ff877bacb99 UE4Editor-Engine.dll!UnknownFunction []
+[2019.09.14-21.44.36:114][759]LogWindows: Error: [Callstack] 0x00007ff877112911 UE4Editor-Engine.dll!UnknownFunction []
+[2019.09.14-21.44.36:114][759]LogWindows: Error: [Callstack] 0x00007ff877b6754e UE4Editor-Engine.dll!UnknownFunction []
+[2019.09.14-21.44.36:114][759]LogWindows: Error: [Callstack] 0x00007ff8770d99af UE4Editor-Engine.dll!UnknownFunction []
+[2019.09.14-21.44.36:114][759]LogWindows: Error: [Callstack] 0x00007ff87001be44 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.14-21.44.36:114][759]LogWindows: Error: [Callstack] 0x00007ff87003b044 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.14-21.44.36:114][759]LogWindows: Error: [Callstack] 0x00007ff87005319f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.14-21.44.36:114][759]LogWindows: Error: [Callstack] 0x00007ff86fb2fc4a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.14-21.44.36:114][759]LogWindows: Error: [Callstack] 0x00007ff87034d396 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.14-21.44.36:114][759]LogWindows: Error: [Callstack] 0x00007ff710d06bb1 UE4Editor.exe!UnknownFunction []
+[2019.09.14-21.44.36:114][759]LogWindows: Error: [Callstack] 0x00007ff710d1554c UE4Editor.exe!UnknownFunction []
+[2019.09.14-21.44.36:114][759]LogWindows: Error: [Callstack] 0x00007ff710d155ca UE4Editor.exe!UnknownFunction []
+[2019.09.14-21.44.36:114][759]LogWindows: Error: [Callstack] 0x00007ff710d2316c UE4Editor.exe!UnknownFunction []
+[2019.09.14-21.44.36:114][759]LogWindows: Error: [Callstack] 0x00007ff710d25b8e UE4Editor.exe!UnknownFunction []
+[2019.09.14-21.44.36:114][759]LogWindows: Error: [Callstack] 0x00007ff8c6b24034 KERNEL32.DLL!UnknownFunction []
+[2019.09.14-21.44.36:114][759]LogWindows: Error: [Callstack] 0x00007ff8c7063691 ntdll.dll!UnknownFunction []
+[2019.09.14-21.44.36:114][759]LogWindows: Error: 
+[2019.09.14-21.44.36:243][759]LogExit: Executing StaticShutdownAfterError
+[2019.09.14-21.44.36:247][759]LogWindows: FPlatformMisc::RequestExit(1)
+[2019.09.14-21.44.36:254][759]Log file closed, 09/14/19 18:44:36

@@ -1,0 +1,3 @@
+C:\Users\Alexandre\Desktop\AnimGA\Source\AnimGA\AnimGA.Build.cs
+C:\Users\Alexandre\Desktop\AnimGA\Source\AnimGA.Target.cs
+C:\Users\Alexandre\Desktop\AnimGA\Source\AnimGAEditor.Target.cs

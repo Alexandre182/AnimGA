@@ -1,0 +1,14 @@
+﻿  Creating makefile for AnimGAEditor (ini files are newer than makefile)
+  Parsing headers for AnimGAEditor
+    Running UnrealHeaderTool "C:\Users\Alexandre\Desktop\AnimGA\AnimGA.uproject" "C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\AnimGAEditor\Development\AnimGAEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for AnimGAEditor in 7,3473465 seconds
+  Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 8 processes...
+    [1/4] SpectralVisualizer.cpp
+    [2/4] UE4Editor-AnimGA.lib
+       Criando biblioteca C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\UE4Editor\Development\AnimGA\UE4Editor-AnimGA.lib e objeto C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\UE4Editor\Development\AnimGA\UE4Editor-AnimGA.exp
+    [3/4] UE4Editor-AnimGA.dll
+       Criando biblioteca C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\UE4Editor\Development\AnimGA\UE4Editor-AnimGA.suppressed.lib e objeto C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\UE4Editor\Development\AnimGA\UE4Editor-AnimGA.suppressed.exp
+    [4/4] AnimGAEditor.target
+  Total time in Parallel executor: 4,19 seconds
+  Total execution time: 13,79 seconds

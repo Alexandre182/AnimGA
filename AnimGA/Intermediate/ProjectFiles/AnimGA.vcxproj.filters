@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\AnimGA.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{74AE7171-290C-4259-BB8D-A84E925B43FD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AnimGA.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AnimGAEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{BF348457-274C-4EB9-A102-B8F1D613ADED}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\AnimGA">
+      <UniqueIdentifier>{648891C0-8541-4A36-B56C-858D0394E329}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AnimGA\AnimGA.Build.cs">
+      <Filter>Source\AnimGA</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\AnimGA\AnimGA.cpp">
+      <Filter>Source\AnimGA</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AnimGA\AnimGA.h">
+      <Filter>Source\AnimGA</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AnimGA\AnimGAGameModeBase.cpp">
+      <Filter>Source\AnimGA</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AnimGA\AnimGAGameModeBase.h">
+      <Filter>Source\AnimGA</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\AnimGA\SpectralVisualizer.h">
+      <Filter>Source\AnimGA</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\AnimGA\CharAnimInstance.h">
+      <Filter>Source\AnimGA</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\AnimGA\SpectralVisualizer.cpp">
+      <Filter>Source\AnimGA</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AnimGA\CharAnimInstance.cpp">
+      <Filter>Source\AnimGA</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
