@@ -13,22 +13,19 @@ UCLASS()
 class ANIMGA_API UCharAnimInstance : public UAnimInstance
 {
 	GENERATED_BODY()
-//	
-//public:
-//
-//	virtual void NativeInitializeAnimation() override;
-//
-//	UFUNCTION(BlueprintCallable, Category = AnimationProperties)
-//		void UpdateAnimationProperties();
-//
-//	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Movement)
-//		float FreqMagnitude;
-//
-//	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Movement)
-//		class ASpectraVisualizer* Spec;
-//
-//
-//	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Movement)
-//		class AMainCharacter* Main;
+	
+public:
+
+	virtual void NativeInitializeAnimation() override;
+
+	UFUNCTION(BlueprintCallable, Category = AnimationProperties)
+	void UpdateAnimationProperties();
+
+	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Movement)
+	float FreqMagnitude;
+
+	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Movement)
+	TSubclassOf<class ASpectralVisualizer> Spec;
+
 };
 

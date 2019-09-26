@@ -1,0 +1,1034 @@
+﻿Log file open, 09/25/19 21:32:56
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: AnimGA
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.277441
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin TimeSynth
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU:         Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.09.26-00.32.56:909][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.09.26-00.32.56:909][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.09.26-00.32.56:909][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Engine.ini]
+[2019.09.26-00.32.56:909][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.09.26-00.32.56:909][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.09.26-00.32.56:910][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Engine.ini]
+[2019.09.26-00.32.56:910][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Engine.ini]
+[2019.09.26-00.32.56:910][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.09.26-00.32.56:910][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.09.26-00.32.56:910][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.09.26-00.32.56:910][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.09.26-00.32.56:910][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.09.26-00.32.56:910][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.09.26-00.32.56:910][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.09.26-00.32.56:910][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.09.26-00.32.56:910][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.09.26-00.32.56:910][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.09.26-00.32.56:910][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.09.26-00.32.56:910][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.09.26-00.32.56:910][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.09.26-00.32.56:910][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Engine.ini]
+[2019.09.26-00.32.56:910][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.09.26-00.32.56:910][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.09.26-00.32.56:910][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.09.26-00.32.56:910][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.09.26-00.32.56:910][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.09.26-00.32.56:910][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.09.26-00.32.56:911][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.09.26-00.32.56:911][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.09.26-00.32.56:911][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.09.26-00.32.56:911][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.09.26-00.32.56:911][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.09.26-00.32.56:911][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.09.26-00.32.56:911][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.09.26-00.32.56:911][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Engine.ini]
+[2019.09.26-00.32.56:911][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Engine.ini]
+[2019.09.26-00.32.56:928][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-00.32.56:928][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.26-00.32.56:928][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.26-00.32.56:928][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-00.32.56:928][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.26-00.32.56:928][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-00.32.56:928][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.26-00.32.56:928][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.26-00.32.56:928][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.26-00.32.56:928][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.26-00.32.56:928][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.26-00.32.56:928][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.26-00.32.56:929][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.26-00.32.56:929][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.26-00.32.56:929][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.26-00.32.56:929][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.26-00.32.56:929][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.26-00.32.56:929][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.26-00.32.56:929][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.26-00.32.56:929][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.26-00.32.56:929][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.26-00.32.56:929][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.26-00.32.56:929][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.26-00.32.56:929][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.26-00.32.56:929][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-00.32.56:929][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.26-00.32.56:929][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.26-00.32.56:929][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.26-00.32.56:929][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.26-00.32.56:929][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.26-00.32.56:929][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.26-00.32.56:929][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.26-00.32.56:929][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.26-00.32.56:929][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.26-00.32.56:929][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.26-00.32.56:929][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.26-00.32.56:929][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.26-00.32.56:929][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.26-00.32.56:929][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.26-00.32.56:929][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.26-00.32.56:930][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.26-00.32.56:930][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.26-00.32.56:930][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.26-00.32.56:930][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.26-00.32.56:930][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.26-00.32.56:930][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.26-00.32.56:930][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.26-00.32.56:930][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.26-00.32.56:930][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.26-00.32.56:930][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.26-00.32.56:930][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.26-00.32.56:930][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.26-00.32.56:930][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.26-00.32.56:930][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.26-00.32.56:930][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.26-00.32.56:930][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-00.32.56:930][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.26-00.32.56:930][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.26-00.32.56:931][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.26-00.32.56:931][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.26-00.32.56:931][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.26-00.32.56:931][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.26-00.32.56:931][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.26-00.32.56:931][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.26-00.32.56:931][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-00.32.56:931][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.26-00.32.56:931][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.26-00.32.56:931][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.26-00.32.56:931][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.26-00.32.56:931][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.26-00.32.56:931][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.26-00.32.56:931][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.26-00.32.56:931][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.26-00.32.56:931][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.26-00.32.56:931][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.26-00.32.56:931][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.26-00.32.56:931][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.26-00.32.56:931][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.26-00.32.56:931][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-00.32.56:931][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.26-00.32.56:931][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.26-00.32.56:931][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.26-00.32.56:932][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.09.26-00.32.56:965][  0]LogHAL: Display: Platform has ~ 16 GB [17125179392 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.09.26-00.32.56:966][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.09.26-00.32.56:966][  0]LogInit: Going up to parent DeviceProfile []
+[2019.09.26-00.32.56:966][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-00.32.56:966][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.26-00.32.56:966][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.26-00.32.56:966][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-00.32.56:966][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.26-00.32.56:966][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-00.32.56:966][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.26-00.32.56:966][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.26-00.32.56:966][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.26-00.32.56:966][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.26-00.32.56:966][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.26-00.32.56:966][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.26-00.32.56:966][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.26-00.32.56:966][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.26-00.32.56:966][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.26-00.32.56:966][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.26-00.32.56:966][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.26-00.32.56:966][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.26-00.32.56:966][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.26-00.32.56:966][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.26-00.32.56:966][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.26-00.32.56:966][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.26-00.32.56:966][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.26-00.32.56:966][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.26-00.32.56:966][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-00.32.56:966][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.26-00.32.56:966][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.26-00.32.56:966][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.26-00.32.56:966][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.26-00.32.56:966][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.26-00.32.56:966][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.26-00.32.56:966][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.26-00.32.56:966][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.26-00.32.56:966][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.26-00.32.56:966][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.26-00.32.56:966][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.26-00.32.56:966][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.26-00.32.56:966][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.26-00.32.56:967][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.26-00.32.56:967][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.26-00.32.56:967][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.26-00.32.56:967][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.26-00.32.56:967][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.26-00.32.56:967][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.26-00.32.56:967][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.26-00.32.56:967][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.26-00.32.56:967][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.26-00.32.56:967][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.26-00.32.56:967][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.26-00.32.56:967][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.26-00.32.56:967][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.26-00.32.56:967][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.26-00.32.56:967][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.26-00.32.56:967][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.26-00.32.56:967][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.26-00.32.56:967][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-00.32.56:967][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.26-00.32.56:967][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.26-00.32.56:967][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.26-00.32.56:967][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.26-00.32.56:967][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.26-00.32.56:967][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.26-00.32.56:967][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.26-00.32.56:967][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.26-00.32.56:967][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-00.32.56:967][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.26-00.32.56:967][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.26-00.32.56:967][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.26-00.32.56:967][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.26-00.32.56:967][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.26-00.32.56:967][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.26-00.32.56:967][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.26-00.32.56:967][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.26-00.32.56:967][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.26-00.32.56:967][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.26-00.32.56:967][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.26-00.32.56:967][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.26-00.32.56:967][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.26-00.32.56:967][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-00.32.56:967][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.26-00.32.56:967][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.26-00.32.56:967][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.09.26-00.32.56:968][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.09.26-00.32.56:968][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.09.26-00.32.56:968][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Alexandre/Desktop/AnimGA/Saved/Config/Windows/Engine.ini]
+[2019.09.26-00.32.56:968][  0]LogInit: Computer: DESKTOP-PIVJ3MB
+[2019.09.26-00.32.56:968][  0]LogInit: User: Alexandre
+[2019.09.26-00.32.56:968][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.09.26-00.32.56:968][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.09.26-00.32.56:968][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.09.26-00.32.56:968][  0]LogMemory: Platform Memory Stats for Windows
+[2019.09.26-00.32.56:968][  0]LogMemory: Process Physical Memory: 97.05 MB used, 97.05 MB peak
+[2019.09.26-00.32.56:968][  0]LogMemory: Process Virtual Memory: 88.95 MB used, 88.95 MB peak
+[2019.09.26-00.32.56:968][  0]LogMemory: Physical Memory: 5041.18 MB used,  11290.66 MB free, 16331.84 MB total
+[2019.09.26-00.32.56:968][  0]LogMemory: Virtual Memory: 4642.20 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.09.26-00.32.56:991][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.09.26-00.32.56:992][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2019.09.26-00.32.57:170][  0]LogInit: Setting process to per monitor DPI aware
+[2019.09.26-00.32.57:217][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.09.26-00.32.57:217][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.09.26-00.32.57:426][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.26-00.32.57:426][  0]LogD3D11RHI: D3D11 adapters:
+[2019.09.26-00.32.57:510][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2019.09.26-00.32.57:510][  0]LogD3D11RHI:       6052/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.09.26-00.32.57:512][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.09.26-00.32.57:512][  0]LogD3D11RHI:       0/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.09.26-00.32.57:512][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.09.26-00.32.57:519][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.09.26-00.32.57:519][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2019.09.26-00.32.57:519][  0]LogWindows: EnumDisplayDevices:
+[2019.09.26-00.32.57:519][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2019.09.26-00.32.57:520][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2019.09.26-00.32.57:520][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.09.26-00.32.57:520][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.09.26-00.32.57:520][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.09.26-00.32.57:520][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2019.09.26-00.32.57:520][  0]LogD3D11RHI:   Driver Version: 436.15 (internal:26.21.14.3615, unified:436.15)
+[2019.09.26-00.32.57:520][  0]LogD3D11RHI:      Driver Date: 8-24-2019
+[2019.09.26-00.32.57:520][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.09.26-00.32.57:575][  0]LogD3D11RHI: Async texture creation enabled
+[2019.09.26-00.32.57:585][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.26-00.32.57:585][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.26-00.32.57:585][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.26-00.32.57:594][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.09.26-00.32.58:017][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.09.26-00.32.58:034][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.09.26-00.32.58:054][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.09.26-00.32.58:071][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.09.26-00.32.58:090][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.09.26-00.32.58:107][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.09.26-00.32.58:125][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.09.26-00.32.58:141][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.09.26-00.32.58:149][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.09.26-00.32.58:249][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.09.26-00.32.58:249][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.09.26-00.32.58:249][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.09.26-00.32.58:249][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.09.26-00.32.58:249][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.09.26-00.32.58:249][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.09.26-00.32.58:249][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.09.26-00.32.58:249][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.09.26-00.32.58:249][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.09.26-00.32.58:249][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.09.26-00.32.58:249][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.09.26-00.32.58:249][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.09.26-00.32.58:249][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.09.26-00.32.58:249][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.09.26-00.32.58:249][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.09.26-00.32.58:249][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.09.26-00.32.58:249][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.09.26-00.32.58:249][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.09.26-00.32.58:251][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.09.26-00.32.58:304][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.09.26-00.32.58:304][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.09.26-00.32.58:330][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.09.26-00.32.58:330][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.09.26-00.32.58:344][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.09.26-00.32.58:358][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.09.26-00.32.58:373][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.09.26-00.32.58:389][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.09.26-00.32.58:446][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.09.26-00.32.58:446][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.09.26-00.32.58:446][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.09.26-00.32.58:455][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.09.26-00.32.58:505][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (../../../../../../Users/Alexandre/Desktop/AnimGA/Intermediate/Shaders/WorkingDirectory/15268/).
+[2019.09.26-00.32.58:505][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Alexandre/AppData/Local/Temp/UnrealShaderWorkingDir/951DC54544C53545EAB014BC1853CBA6/'.
+[2019.09.26-00.32.58:508][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.09.26-00.32.58:508][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.09.26-00.32.58:508][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.09.26-00.32.59:096][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.09.26-00.32.59:148][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Alexandre/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.09.26-00.32.59:148][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Alexandre/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.09.26-00.32.59:148][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Alexandre/Desktop/AnimGA/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.09.26-00.32.59:148][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.09.26-00.32.59:148][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Alexandre/Desktop/AnimGA/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.26-00.32.59:148][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.09.26-00.32.59:161][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.09.26-00.32.59:161][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.26-00.32.59:161][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.09.26-00.32.59:173][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Alexandre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.09.26-00.32.59:173][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.09.26-00.32.59:173][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.09.26-00.32.59:199][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.09.26-00.32.59:201][  0]LogSlate: Using FreeType 2.6.0
+[2019.09.26-00.32.59:201][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.09.26-00.32.59:288][  0]LogAssetRegistry: FAssetRegistry took 0.0359 seconds to start up
+[2019.09.26-00.32.59:682][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.26-00.32.59:825][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.09.26-00.32.59:825][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.09.26-00.32.59:825][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.09.26-00.32.59:826][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.09.26-00.32.59:826][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.09.26-00.32.59:842][  0]LogNetVersion: AnimGA 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 4278856282)
+[2019.09.26-00.33.00:321][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.059993 seconds
+[2019.09.26-00.33.00:328][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.09.26-00.33.00:328][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.09.26-00.33.00:328][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.09.26-00.33.01:212][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.09.26-00.33.01:227][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.09.26-00.33.01:369][  0]SourceControl: Source control is disabled
+[2019.09.26-00.33.01:369][  0]SourceControl: Source control is disabled
+[2019.09.26-00.33.01:371][  0]SourceControl: Source control is disabled
+[2019.09.26-00.33.01:372][  0]SourceControl: Source control is disabled
+[2019.09.26-00.33.01:446][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.09.26-00.33.01:556][  0]LogOcInput: OculusInput pre-init called
+[2019.09.26-00.33.02:264][  0]LogEngine: Initializing Engine...
+[2019.09.26-00.33.02:265][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.26-00.33.02:267][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.09.26-00.33.02:482][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.09.26-00.33.02:497][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.09.26-00.33.02:530][  0]LogInit: XAudio2 using 'Alto-falantes (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-00.33.02:546][  0]LogInit: FAudioDevice initialized.
+[2019.09.26-00.33.02:546][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.09.26-00.33.02:667][  0]LogDerivedDataCache: Saved boot cache 0.12s 71MB C:/Users/Alexandre/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.09.26-00.33.02:678][  0]LogInit: Texture streaming: Enabled
+[2019.09.26-00.33.02:714][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.09.26-00.33.02:741][  0]LogInit: Transaction tracking system initialized
+[2019.09.26-00.33.02:768][  0]BlueprintLog: New page: Editor Load
+[2019.09.26-00.33.02:858][  0]LocalizationService: Localization service is disabled
+[2019.09.26-00.33.03:168][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alexandre/Desktop/AnimGA/Content/' took 0.02s
+[2019.09.26-00.33.03:168][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.09.26-00.33.03:168][  0]LogCook: Display: Mobile HDR setting 1
+[2019.09.26-00.33.03:253][  0]LogLinker: Warning: Can't find file '/Engine/BasicShapes/Plane'
+[2019.09.26-00.33.03:253][  0]LogLinker: Warning: Can't find file '/Engine/BasicShapes/Plane'
+[2019.09.26-00.33.03:254][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Plane.Plane'
+[2019.09.26-00.33.03:347][  0]SourceControl: Source control is disabled
+[2019.09.26-00.33.03:348][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.26-00.33.03:348][  0]LightingResults: New page: Lighting Build
+[2019.09.26-00.33.03:351][  0]MapCheck: New page: Map Check
+[2019.09.26-00.33.03:351][  0]LightingResults: New page: Lighting Build
+[2019.09.26-00.33.03:376][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.09.26-00.33.03:471][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.09.26-00.33.03:476][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.26-00.33.03:499][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.09.26-00.33.03:499][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.26-00.33.03:500][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.2ms to complete.
+[2019.09.26-00.33.03:500][  0]LogFileHelpers: Loading map 'Template_Default' took 0.152
+[2019.09.26-00.33.03:672][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-00.33.03:683][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-00.33.03:692][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-00.33.03:700][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-00.33.03:717][  0]LogCollectionManager: Loaded 0 collections in 0.001975 seconds
+[2019.09.26-00.33.03:754][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alexandre/Desktop/AnimGA/Saved/Collections/' took 0.01s
+[2019.09.26-00.33.03:754][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alexandre/Desktop/AnimGA/Content/Developers/Alexandre/Collections/' took 0.00s
+[2019.09.26-00.33.03:754][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alexandre/Desktop/AnimGA/Content/Collections/' took 0.00s
+[2019.09.26-00.33.03:754][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.09.26-00.33.03:767][  0]LogContentBrowser: Native class hierarchy populated in 0.0108 seconds. Added 2741 classes and 666 folders.
+[2019.09.26-00.33.03:784][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.09.26-00.33.03:795][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-00.33.03:804][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-00.33.03:822][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-00.33.03:830][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-00.33.03:837][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-00.33.03:843][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-00.33.03:849][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-00.33.03:857][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-00.33.03:864][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-00.33.03:872][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-00.33.03:878][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-00.33.03:885][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-00.33.03:892][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-00.33.03:900][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-00.33.03:906][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-00.33.03:912][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-00.33.03:945][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-00.33.03:952][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-00.33.03:959][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-00.33.03:966][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-00.33.03:973][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-00.33.03:980][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-00.33.03:987][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-00.33.03:994][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-00.33.04:001][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-00.33.04:008][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-00.33.04:168][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.09.26-00.33.04:191][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.09.26-00.33.04:430][  0]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.09.26-00.33.04:433][  0]LogSlate: Took 0.000316 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.09.26-00.33.04:450][  0]LogSlate: Took 0.007695 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.09.26-00.33.04:591][  0]LogRenderer: Reallocating scene render targets to support 1168x576 Format 10 NumSamples 1 (Frame:1).
+[2019.09.26-00.33.04:713][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.09.26-00.33.04:713][  0]LogLoad: (Engine Initialization) Total time: 9.78 seconds
+[2019.09.26-00.33.04:713][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.09.26-00.33.04:750][  0]LogAssetRegistry: Asset discovery search completed in 5.4851 seconds
+[2019.09.26-00.33.04:752][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.09.26-00.33.04:752][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000047 seconds (updated 0 objects)
+[2019.09.26-00.33.04:753][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.09.26-00.33.04:797][  0]LogSlate: Took 0.006652 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.26-00.44.01:616][776]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-00.44.04:326][ 88]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.26-00.44.04:335][ 88]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SpectralVisualizer_BP.SpectralVisualizer_BP
+[2019.09.26-00.44.04:817][ 88]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2019.09.26-00.44.06:069][ 88]LogSlate: Took 0.006764 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.09.26-00.44.07:779][240]LogSlate: Window 'SpectralVisualizer_BP' being destroyed
+[2019.09.26-00.44.07:782][240]LogSlate: Window 'SpectralVisualizer_BP' being destroyed
+[2019.09.26-00.44.12:237][764]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.09.26-00.50.28:013][102]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.26-00.50.28:032][102]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Alexandre\Desktop\573bbe2afb7e13683406d103b02b0cf7--hand-painted-textures-d-texture.jpg)
+[2019.09.26-00.50.28:041][102]LogTexture: Display: Building textures: 573bbe2afb7e13683406d103b02b0cf7--hand-painted-textures-d-texture (AutoDXT, 236X236)
+[2019.09.26-00.50.28:128][102]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.26-00.50.31:533][457]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Alexandre\Desktop\ulrick-wery-tileableset2-wood.jpg)
+[2019.09.26-00.50.31:541][457]LogTexture: Display: Building textures: ulrick-wery-tileableset2-wood (AutoDXT, 512X512)
+[2019.09.26-00.51.25:033][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ground_Material" FILE="../../../../../../Users/Alexandre/Desktop/AnimGA/Content/Ground_Material.uasset" SILENT=true
+[2019.09.26-00.51.25:051][467]LogSavePackage: Moving '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/Ground_MaterialA58AB77740C876460EB2E7A414E41E3C.tmp' to '../../../../../../Users/Alexandre/Desktop/AnimGA/Content/Ground_Material.uasset'
+[2019.09.26-00.51.25:202][467]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2019.09.26-00.51.25:233][467]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.09.26-00.51.25:256][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.09.26-00.51.26:656][620]LogAssetEditorManager: Opening Asset editor for Material /Game/Ground_Material.Ground_Material
+[2019.09.26-00.51.26:660][620]LogMaterial: Display: Missing cached shader map for material Ground_Material, compiling. 
+[2019.09.26-00.51.27:108][620]LogMaterial: Display: Missing cached shader map for material Ground_Material, compiling. 
+[2019.09.26-00.51.27:127][620]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.26-00.51.28:098][667]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.26-00.51.29:626][747]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.09.26-00.51.29:626][747]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.09.26-00.51.29:626][747]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.09.26-00.51.29:626][747]MaterialEditorStats: Texture samplers: 3/16
+[2019.09.26-00.51.36:388][231]LogMaterial: Display: Missing cached shader map for material Ground_Material, compiling. 
+[2019.09.26-00.51.36:403][231]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.09.26-00.51.36:411][231]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.26-00.51.36:438][231]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.09.26-00.51.37:281][270]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.26-00.51.38:538][331]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.09.26-00.51.38:539][331]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.09.26-00.51.38:539][331]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.09.26-00.51.38:539][331]MaterialEditorStats: Texture samplers: 3/16
+[2019.09.26-00.51.39:670][427]LogMaterial: Display: Missing cached shader map for material Ground_Material, compiling. 
+[2019.09.26-00.51.39:688][427]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.09.26-00.51.39:704][427]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.26-00.51.40:633][471]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.26-00.51.41:914][535]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.09.26-00.51.41:914][535]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2019.09.26-00.51.41:914][535]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.09.26-00.51.41:914][535]MaterialEditorStats: Texture samplers: 4/16
+[2019.09.26-00.51.41:914][535]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.09.26-00.51.41:914][535]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.09.26-00.51.43:323][652]LogMaterialEditor: Saving and Compiling material Ground_Material
+[2019.09.26-00.51.43:747][652]LogMaterial: Display: Missing cached shader map for material Ground_Material, compiling. 
+[2019.09.26-00.51.43:794][652]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.26-00.51.43:809][652]LogMaterial: Display: Missing cached shader map for material Ground_Material, compiling. 
+[2019.09.26-00.51.43:831][652]LogMaterial: Display: Missing cached shader map for material Ground_Material, compiling. 
+[2019.09.26-00.51.43:879][652]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2019.09.26-00.51.43:892][652]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.26-00.51.45:641][652]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.09.26-00.51.45:641][652]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.26-00.51.45:645][652]TextureStreamingBuild: Display: Compiling optional shaders took 1.765 seconds.
+[2019.09.26-00.51.45:680][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.09.26-00.51.48:492][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ground_Material" FILE="../../../../../../Users/Alexandre/Desktop/AnimGA/Content/Ground_Material.uasset" SILENT=true
+[2019.09.26-00.51.48:528][652]LogSavePackage: Moving '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/Ground_Material035DE1E441CBC15FE06DB5BB74853E54.tmp' to '../../../../../../Users/Alexandre/Desktop/AnimGA/Content/Ground_Material.uasset'
+[2019.09.26-00.51.59:442][573]LogSlate: Window 'Ground_Material' being destroyed
+[2019.09.26-00.51.59:447][573]LogSlate: Window 'Ground_Material' being destroyed
+[2019.09.26-00.52.01:717][814]LogMaterial: Warning: Material /Game/Ground_Material.Ground_Material needed to have new flag set bUsedWithStaticLighting !
+[2019.09.26-00.52.01:720][814]LogMaterial: Display: Missing cached shader map for material Ground_Material, compiling. 
+[2019.09.26-00.52.04:222][ 59]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.09.26-00.52.05:095][153]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.09.26-00.52.13:491][ 85]Cmd: TRANSACTION UNDO
+[2019.09.26-00.52.13:491][ 85]LogEditorTransaction: Undo Scale Actors
+[2019.09.26-00.52.16:823][447]Cmd: TRANSACTION UNDO
+[2019.09.26-00.52.16:823][447]LogEditorTransaction: Undo Scale Actors
+[2019.09.26-00.53.14:729][103]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.26-00.53.14:820][103]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.09.26-00.53.14:822][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/Autosaves/Temp/Untitled_1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.09.26-00.53.14:854][103]LogSavePackage: Moving '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/Untitled_1_Auto1AFF333F147C848C914297588DE86B665.tmp' to '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2019.09.26-00.53.14:858][103]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.075
+[2019.09.26-00.53.14:858][103]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.075
+[2019.09.26-00.53.14:859][103]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ground_Material] ([1] browsable assets)...
+[2019.09.26-00.53.14:859][103]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ground_Material]
+[2019.09.26-00.53.14:859][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ground_Material" FILE="../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/Autosaves/Game/Ground_Material_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.09.26-00.53.14:873][103]LogSavePackage: Moving '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/Ground_Material_Auto1EA076C6843A15C4CFCF8FDABDAF4345D.tmp' to '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/Autosaves/Game/Ground_Material_Auto1.uasset'
+[2019.09.26-00.53.14:874][103]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/573bbe2afb7e13683406d103b02b0cf7--hand-painted-textures-d-texture] ([1] browsable assets)...
+[2019.09.26-00.53.14:882][103]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/573bbe2afb7e13683406d103b02b0cf7--hand-painted-textures-d-texture.573bbe2afb7e13683406d103b02b0cf7--hand-painted-textures-d-texture]
+[2019.09.26-00.53.14:882][103]OBJ SavePackage: Finished generating thumbnails for package [/Game/573bbe2afb7e13683406d103b02b0cf7--hand-painted-textures-d-texture]
+[2019.09.26-00.53.14:897][103]LogSavePackage: Moving '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/573bbe2afb7e13683406d103b02b0cf738BF5C9144BC8D139CB310BFCF34BB10.tmp' to '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/Autosaves/Game/573bbe2afb7e13683406d103b02b0cf7--hand-painted-textures-d-texture_Auto1.uasset'
+[2019.09.26-00.53.14:898][103]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ulrick-wery-tileableset2-wood] ([1] browsable assets)...
+[2019.09.26-00.53.14:908][103]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ulrick-wery-tileableset2-wood.ulrick-wery-tileableset2-wood]
+[2019.09.26-00.53.14:908][103]OBJ SavePackage: Finished generating thumbnails for package [/Game/ulrick-wery-tileableset2-wood]
+[2019.09.26-00.53.14:921][103]LogSavePackage: Moving '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/ulrick-wery-tileableset2-wood_Au304A984246E98973FA7A7CAB761C4775.tmp' to '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/Autosaves/Game/ulrick-wery-tileableset2-wood_Auto1.uasset'
+[2019.09.26-00.53.14:922][103]LogFileHelpers: Auto-saving content packages took 0.063
+[2019.09.26-00.53.38:183][861]LogActorFactory: Actor Factory created Cube
+[2019.09.26-00.53.39:202][947]LogActorFactory: Actor Factory created Cube
+[2019.09.26-00.54.04:128][632]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-00.54.23:182][828]LogMaterial: Display: Missing cached shader map for material ulrick-wery-tileableset2-wood_Mat, compiling. 
+[2019.09.26-00.54.41:674][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-00.55.28:629][ 78]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-00.59.10:872][346]LogSlate: Window 'Material Baking Options' being destroyed
+[2019.09.26-00.59.10:887][346]LogMaterial: Display: Missing cached shader map for material FExportMaterialRenderer ulrick-wery-tileableset2-wood_Mat, compiling. 
+[2019.09.26-00.59.13:553][346]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.26-00.59.13:553][346]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.26-00.59.13:610][346]LogTexture: Display: Building textures: T_M_Cube_ulrick-wery-tileableset2-wood_Mat_3D02521648C6F5B5DF9A42B8E76B2B3A_BaseColor (BGRA8, 128X128)
+[2019.09.26-00.59.13:619][346]LogMaterial: Display: Missing cached shader map for material NewBaseFlattenMaterial, compiling. 
+[2019.09.26-00.59.16:239][346]LogSlate: Window 'Material Baking Options' being destroyed
+[2019.09.26-00.59.16:258][346]LogMaterial: Display: Missing cached shader map for material FExportMaterialRenderer M_M_Cube_ulrick-wery-tileableset2-wood_Mat_3D02521648C6F5B5DF9A42B8E76B2B3A, compiling. 
+[2019.09.26-00.59.20:420][346]LogShaderCompilers: Display: Shaders left to compile 160
+[2019.09.26-00.59.20:420][346]LogShaderCompilers: Display: Shaders left to compile 150
+[2019.09.26-00.59.20:420][346]LogShaderCompilers: Display: Shaders left to compile 140
+[2019.09.26-00.59.20:428][346]LogTexture: Display: Building textures: T_M_Cube_M_M_Cube_ulrick-wery-tileableset2-wood_Mat_3D02521648C6F5B5DF9A42B8E76B2B3A_F35C243648D61FC5B8AB9CA2F55940D3_BaseColor (BGRA8, 128X128)
+[2019.09.26-00.59.39:647][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-00.59.49:630][177]LogSlate: Window 'Material Baking Options' being destroyed
+[2019.09.26-00.59.50:372][261]LogAssetEditorManager: Opening Asset editor for Material /Game/ulrick-wery-tileableset2-wood_Mat.ulrick-wery-tileableset2-wood_Mat
+[2019.09.26-00.59.50:375][261]LogMaterial: Display: Missing cached shader map for material ulrick-wery-tileableset2-wood_Mat, compiling. 
+[2019.09.26-00.59.50:453][261]LogMaterial: Display: Missing cached shader map for material ulrick-wery-tileableset2-wood_Mat, compiling. 
+[2019.09.26-00.59.50:468][261]LogMaterial: Display: Missing cached shader map for material ulrick-wery-tileableset2-wood_Mat, compiling. 
+[2019.09.26-00.59.50:499][261]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.26-00.59.50:514][261]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.09.26-00.59.51:600][306]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.26-00.59.53:420][328]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.09.26-00.59.53:420][328]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2019.09.26-00.59.53:420][328]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.09.26-00.59.53:420][328]MaterialEditorStats: Texture samplers: 4/16
+[2019.09.26-00.59.53:420][328]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.09.26-00.59.53:420][328]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.09.26-00.59.56:484][579]LogMaterial: Display: Missing cached shader map for material ulrick-wery-tileableset2-wood_Mat, compiling. 
+[2019.09.26-00.59.56:498][579]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.26-00.59.57:058][610]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.26-00.59.58:536][688]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.09.26-00.59.58:536][688]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2019.09.26-00.59.58:536][688]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.09.26-00.59.58:536][688]MaterialEditorStats: Texture samplers: 4/16
+[2019.09.26-00.59.58:536][688]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.09.26-00.59.58:536][688]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.09.26-01.00.20:666][544]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-01.00.30:625][370]LogSlate: Window 'ulrick-wery-tileableset2-wood_Mat' being destroyed
+[2019.09.26-01.00.30:629][370]LogSlate: Window 'ulrick-wery-tileableset2-wood_Mat' being destroyed
+[2019.09.26-01.01.00:210][693]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-01.01.32:287][802]LogSlate: Window 'Material Baking Options' being destroyed
+[2019.09.26-01.01.39:175][143]LogSlate: Window 'Material Baking Options' being destroyed
+[2019.09.26-01.01.39:199][143]LogTexture: Display: Building textures: T_M_Cube_M_M_Cube_M_M_Cube_ulrick-wery-tileableset2-wood_Mat_3D02521648C6F5B5DF9A42B8E76B2B3A_F35C243648D61FC5B8AB9CA2F55940D3_EB27705948F983F31E4446A61F87DF65_BaseColor (BGRA8, 128X128)
+[2019.09.26-01.01.42:623][403]LogSlate: Window 'Material Baking Options' being destroyed
+[2019.09.26-01.01.42:644][403]LogTexture: Display: Building textures: T_M_Cube_M_M_Cube_M_M_Cube_M_M_Cube_ulrick-wery-tileableset2-wood_Mat_3D02521648C6F5B5DF9A42B8E76B2B3A_F35C243648D61FC5B8AB9CA2F55940D3_EB27705948F983F31E4446A61F87DF65_5EEA9ED74827B65E575C0F83700E2B5B_BaseColor (BGRA8, 128X128)
+[2019.09.26-01.01.44:301][403]LogSlate: Window 'Message' being destroyed
+[2019.09.26-01.01.51:895][270]Cmd: DELETE
+[2019.09.26-01.01.51:895][270]Cmd: ACTOR DELETE
+[2019.09.26-01.01.51:901][270]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.26-01.01.51:947][270]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.09.26-01.01.51:948][270]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2019.09.26-01.01.53:792][480]LogActorFactory: Actor Factory created Cube
+[2019.09.26-01.01.55:533][672]LogActorFactory: Actor Factory created Cube
+[2019.09.26-01.01.57:902][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-01.03.04:267][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-01.03.04:467][547]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Engine/BasicShapes/M_Cube_M_M_Cube_ulrick-wery-tileableset2-wood_Mat_3D02521648C6F5B5DF9A42B8E76B2B3A_F35C243648D61FC5B8AB9CA2F55940D3.M_M_Cube_M_M_Cube_ulrick-wery-tileableset2-wood_Mat_3D02521648C6F5B5DF9A42B8E76B2B3A_F35C243648D61FC5B8AB9CA2F55940D3
+[2019.09.26-01.03.04:629][547]LogRenderer: Reallocating scene render targets to support 1168x880 Format 10 NumSamples 1 (Frame:1).
+[2019.09.26-01.03.09:621][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-01.03.09:730][ 14]LogSlate: Window 'M_M_Cube_M_M_Cube_ulrick-wery-tileableset2-wood_Mat_3D02521648C6F5B5DF9A42B8E76B2B3A_F35C243648D61FC5B8AB9CA2F55940D3' being destroyed
+[2019.09.26-01.03.09:734][ 14]LogSlate: Window 'M_M_Cube_M_M_Cube_ulrick-wery-tileableset2-wood_Mat_3D02521648C6F5B5DF9A42B8E76B2B3A_F35C243648D61FC5B8AB9CA2F55940D3' being destroyed
+[2019.09.26-01.03.09:764][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2019.09.26-01.03.09:780][ 14]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.26-01.03.10:152][ 14]TextureStreamingBuild: Display: Compiling optional shaders took 0.376 seconds.
+[2019.09.26-01.03.10:180][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.09.26-01.03.10:873][ 80]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Engine/BasicShapes/M_Cube_ulrick-wery-tileableset2-wood_Mat_3D02521648C6F5B5DF9A42B8E76B2B3A.M_M_Cube_ulrick-wery-tileableset2-wood_Mat_3D02521648C6F5B5DF9A42B8E76B2B3A
+[2019.09.26-01.03.12:672][235]LogSlate: Window 'M_M_Cube_ulrick-wery-tileableset2-wood_Mat_3D02521648C6F5B5DF9A42B8E76B2B3A' being destroyed
+[2019.09.26-01.03.12:677][235]LogSlate: Window 'M_M_Cube_ulrick-wery-tileableset2-wood_Mat_3D02521648C6F5B5DF9A42B8E76B2B3A' being destroyed
+[2019.09.26-01.03.12:706][235]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2019.09.26-01.03.12:721][235]TextureStreamingBuild: Display: Compiling optional shaders took 0.006 seconds.
+[2019.09.26-01.03.12:749][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.09.26-01.03.13:483][312]LogSlate: Took 0.006980 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.09.26-01.03.14:459][414]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Engine/BasicShapes/M_Cube_ulrick-wery-tileableset2-wood_Mat_3D02521648C6F5B5DF9A42B8E76B2B3A.M_M_Cube_ulrick-wery-tileableset2-wood_Mat_3D02521648C6F5B5DF9A42B8E76B2B3A
+[2019.09.26-01.03.22:747][179]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-01.03.25:602][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-01.03.25:687][483]LogSlate: Window 'M_M_Cube_ulrick-wery-tileableset2-wood_Mat_3D02521648C6F5B5DF9A42B8E76B2B3A' being destroyed
+[2019.09.26-01.03.25:691][483]LogSlate: Window 'M_M_Cube_ulrick-wery-tileableset2-wood_Mat_3D02521648C6F5B5DF9A42B8E76B2B3A' being destroyed
+[2019.09.26-01.03.33:047][313]LogAssetEditorManager: Opening Asset editor for Material /Game/ulrick-wery-tileableset2-wood_Mat.ulrick-wery-tileableset2-wood_Mat
+[2019.09.26-01.03.33:051][313]LogMaterial: Display: Missing cached shader map for material ulrick-wery-tileableset2-wood_Mat, compiling. 
+[2019.09.26-01.03.33:114][313]LogMaterial: Display: Missing cached shader map for material ulrick-wery-tileableset2-wood_Mat, compiling. 
+[2019.09.26-01.03.33:130][313]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.26-01.03.33:133][313]LogMaterial: Display: Missing cached shader map for material ulrick-wery-tileableset2-wood_Mat, compiling. 
+[2019.09.26-01.03.33:177][313]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.09.26-01.03.33:638][330]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.26-01.03.34:616][375]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.26-01.03.35:905][433]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.09.26-01.03.35:905][433]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2019.09.26-01.03.35:905][433]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.09.26-01.03.35:905][433]MaterialEditorStats: Texture samplers: 4/16
+[2019.09.26-01.03.35:905][433]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.09.26-01.03.35:905][433]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.09.26-01.03.56:488][390]LogMaterial: Display: Missing cached shader map for material ulrick-wery-tileableset2-wood_Mat, compiling. 
+[2019.09.26-01.03.56:531][391]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.26-01.03.57:294][433]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.26-01.03.59:135][536]LogMaterial: Display: Missing cached shader map for material ulrick-wery-tileableset2-wood_Mat, compiling. 
+[2019.09.26-01.03.59:150][536]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.26-01.03.59:153][536]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.09.26-01.04.00:073][577]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.26-01.04.01:311][638]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.09.26-01.04.01:311][638]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2019.09.26-01.04.01:311][638]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.09.26-01.04.01:311][638]MaterialEditorStats: Texture samplers: 4/16
+[2019.09.26-01.04.01:311][638]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.09.26-01.04.01:311][638]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.09.26-01.04.04:164][878]LogMaterial: Display: Missing cached shader map for material ulrick-wery-tileableset2-wood_Mat, compiling. 
+[2019.09.26-01.04.04:189][879]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.26-01.04.04:794][909]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.26-01.04.06:719][975]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.09.26-01.04.06:719][975]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2019.09.26-01.04.06:719][975]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.09.26-01.04.06:719][975]MaterialEditorStats: Texture samplers: 4/16
+[2019.09.26-01.04.06:719][975]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.09.26-01.04.06:719][975]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.09.26-01.04.16:573][481]LogMaterial: Display: Missing cached shader map for material ulrick-wery-tileableset2-wood_Mat, compiling. 
+[2019.09.26-01.04.16:598][482]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.26-01.04.17:169][512]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.26-01.04.17:278][518]LogMaterial: Display: Missing cached shader map for material ulrick-wery-tileableset2-wood_Mat, compiling. 
+[2019.09.26-01.04.17:500][527]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.26-01.04.18:114][560]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.26-01.04.19:793][641]LogMaterial: Display: Missing cached shader map for material ulrick-wery-tileableset2-wood_Mat, compiling. 
+[2019.09.26-01.04.19:808][641]LogMaterial: Display: Missing cached shader map for material ulrick-wery-tileableset2-wood_Mat, compiling. 
+[2019.09.26-01.04.19:840][642]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.26-01.04.20:383][670]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.26-01.04.21:908][750]MaterialEditorStats: Base pass shader: 111 instructions
+[2019.09.26-01.04.21:908][750]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2019.09.26-01.04.21:908][750]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.09.26-01.04.21:908][750]MaterialEditorStats: Texture samplers: 4/16
+[2019.09.26-01.04.21:908][750]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.09.26-01.04.21:908][750]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.09.26-01.04.23:202][852]LogMaterial: Display: Missing cached shader map for material ulrick-wery-tileableset2-wood_Mat, compiling. 
+[2019.09.26-01.04.23:218][852]LogMaterial: Display: Missing cached shader map for material ulrick-wery-tileableset2-wood_Mat, compiling. 
+[2019.09.26-01.04.23:248][853]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.26-01.04.23:818][884]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.26-01.04.25:370][966]MaterialEditorStats: Base pass shader: 111 instructions
+[2019.09.26-01.04.25:370][966]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2019.09.26-01.04.25:370][966]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.09.26-01.04.25:370][966]MaterialEditorStats: Texture samplers: 4/16
+[2019.09.26-01.04.25:370][966]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.09.26-01.04.25:370][966]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.09.26-01.04.25:393][967]LogMaterial: Display: Missing cached shader map for material ulrick-wery-tileableset2-wood_Mat, compiling. 
+[2019.09.26-01.04.25:408][967]LogMaterial: Display: Missing cached shader map for material ulrick-wery-tileableset2-wood_Mat, compiling. 
+[2019.09.26-01.04.25:425][967]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.26-01.04.26:020][999]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.26-01.04.27:111][ 52]LogMaterial: Display: Missing cached shader map for material ulrick-wery-tileableset2-wood_Mat, compiling. 
+[2019.09.26-01.04.27:132][ 52]LogMaterial: Display: Missing cached shader map for material ulrick-wery-tileableset2-wood_Mat, compiling. 
+[2019.09.26-01.04.27:263][ 57]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.26-01.04.27:929][ 91]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.26-01.04.29:605][178]MaterialEditorStats: Base pass shader: 111 instructions
+[2019.09.26-01.04.29:605][178]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2019.09.26-01.04.29:605][178]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.09.26-01.04.29:605][178]MaterialEditorStats: Texture samplers: 4/16
+[2019.09.26-01.04.29:605][178]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.09.26-01.04.29:605][178]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.09.26-01.04.30:499][253]LogMaterial: Display: Missing cached shader map for material ulrick-wery-tileableset2-wood_Mat, compiling. 
+[2019.09.26-01.04.30:523][254]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.26-01.04.30:632][261]LogMaterialEditor: Saving and Compiling material ulrick-wery-tileableset2-wood_Mat
+[2019.09.26-01.04.31:226][261]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.26-01.04.31:250][261]LogMaterial: Display: Missing cached shader map for material ulrick-wery-tileableset2-wood_Mat, compiling. 
+[2019.09.26-01.04.31:343][261]LogMaterial: Display: Missing cached shader map for material ulrick-wery-tileableset2-wood_Mat, compiling. 
+[2019.09.26-01.04.31:371][261]LogMaterial: Display: Missing cached shader map for material ulrick-wery-tileableset2-wood_Mat, compiling. 
+[2019.09.26-01.04.31:432][261]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.09.26-01.04.31:444][261]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.26-01.04.33:347][261]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.09.26-01.04.33:347][261]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.26-01.04.33:349][261]TextureStreamingBuild: Display: Compiling optional shaders took 1.916 seconds.
+[2019.09.26-01.04.33:386][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.09.26-01.04.36:224][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ulrick-wery-tileableset2-wood_Mat" FILE="../../../../../../Users/Alexandre/Desktop/AnimGA/Content/ulrick-wery-tileableset2-wood_Mat.uasset" SILENT=true
+[2019.09.26-01.04.36:244][261]LogSavePackage: Moving '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/ulrick-wery-tileableset2-wood_Ma8DA38E59470D13B7414B33B115235B35.tmp' to '../../../../../../Users/Alexandre/Desktop/AnimGA/Content/ulrick-wery-tileableset2-wood_Mat.uasset'
+[2019.09.26-01.04.42:244][725]LogSlate: Window 'ulrick-wery-tileableset2-wood_Mat' being destroyed
+[2019.09.26-01.04.42:249][725]LogSlate: Window 'ulrick-wery-tileableset2-wood_Mat' being destroyed
+[2019.09.26-01.04.44:227][945]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.09.26-01.04.55:524][231]Cmd: DELETE
+[2019.09.26-01.04.55:524][231]Cmd: ACTOR DELETE
+[2019.09.26-01.04.55:526][231]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.26-01.04.55:577][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.09.26-01.04.55:578][231]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2019.09.26-01.04.57:333][435]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-01.04.57:423][445]LogActorFactory: Actor Factory created Cube
+[2019.09.26-01.04.58:355][548]LogActorFactory: Actor Factory created Cube
+[2019.09.26-01.05.12:968][103]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-01.05.17:469][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-01.05.17:621][542]LogAssetEditorManager: Opening Asset editor for Material /Game/ulrick-wery-tileableset2-wood_Mat.ulrick-wery-tileableset2-wood_Mat
+[2019.09.26-01.05.17:625][542]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.09.26-01.05.17:716][542]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.09.26-01.05.17:728][542]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.26-01.05.17:731][542]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.09.26-01.05.17:776][542]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.09.26-01.05.18:248][554]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.26-01.05.19:200][596]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.26-01.05.20:490][652]MaterialEditorStats: Base pass shader: 111 instructions
+[2019.09.26-01.05.20:490][652]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2019.09.26-01.05.20:490][652]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.09.26-01.05.20:490][652]MaterialEditorStats: Texture samplers: 4/16
+[2019.09.26-01.05.20:490][652]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.09.26-01.05.20:490][652]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.09.26-01.05.24:255][955]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.09.26-01.05.24:271][955]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.09.26-01.05.24:288][955]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.26-01.05.24:885][987]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.26-01.05.25:678][ 25]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.09.26-01.05.25:702][ 25]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.09.26-01.05.25:741][ 26]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.26-01.05.26:531][ 62]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.26-01.05.26:537][ 62]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.09.26-01.05.26:696][ 69]LogMaterialEditor: Saving and Compiling material ulrick-wery-tileableset2-wood_Mat
+[2019.09.26-01.05.27:294][ 69]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.26-01.05.27:314][ 69]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.09.26-01.05.27:376][ 69]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.26-01.05.27:395][ 69]LogMaterial: Display: Missing cached shader map for material ulrick-wery-tileableset2-wood_Mat, compiling. 
+[2019.09.26-01.05.27:422][ 69]LogMaterial: Display: Missing cached shader map for material ulrick-wery-tileableset2-wood_Mat, compiling. 
+[2019.09.26-01.05.27:472][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.09.26-01.05.27:485][ 69]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.26-01.05.29:386][ 69]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.09.26-01.05.29:386][ 69]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.26-01.05.29:387][ 69]TextureStreamingBuild: Display: Compiling optional shaders took 1.915 seconds.
+[2019.09.26-01.05.29:423][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.09.26-01.05.32:193][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ulrick-wery-tileableset2-wood_Mat" FILE="../../../../../../Users/Alexandre/Desktop/AnimGA/Content/ulrick-wery-tileableset2-wood_Mat.uasset" SILENT=true
+[2019.09.26-01.05.32:224][ 69]LogSavePackage: Moving '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/ulrick-wery-tileableset2-wood_MaDB8C84244E4B77F6A2D870A0FCC13FEE.tmp' to '../../../../../../Users/Alexandre/Desktop/AnimGA/Content/ulrick-wery-tileableset2-wood_Mat.uasset'
+[2019.09.26-01.05.32:244][ 69]MaterialEditorStats: Base pass shader: 111 instructions
+[2019.09.26-01.05.32:244][ 69]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2019.09.26-01.05.32:245][ 69]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.09.26-01.05.32:245][ 69]MaterialEditorStats: Texture samplers: 4/16
+[2019.09.26-01.05.32:245][ 69]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.09.26-01.05.32:245][ 69]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.09.26-01.05.35:009][301]LogSlate: Window 'ulrick-wery-tileableset2-wood_Mat' being destroyed
+[2019.09.26-01.05.35:014][301]LogSlate: Window 'ulrick-wery-tileableset2-wood_Mat' being destroyed
+[2019.09.26-01.05.39:425][780]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-01.05.39:581][798]LogAssetEditorManager: Opening Asset editor for Material /Game/ulrick-wery-tileableset2-wood_Mat.ulrick-wery-tileableset2-wood_Mat
+[2019.09.26-01.05.39:585][798]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.09.26-01.05.39:673][798]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.09.26-01.05.39:690][798]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.09.26-01.05.39:717][798]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.26-01.05.39:731][798]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.09.26-01.05.40:669][832]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.26-01.05.42:256][911]MaterialEditorStats: Base pass shader: 111 instructions
+[2019.09.26-01.05.42:256][911]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2019.09.26-01.05.42:256][911]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.09.26-01.05.42:256][911]MaterialEditorStats: Texture samplers: 4/16
+[2019.09.26-01.05.42:256][911]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.09.26-01.05.42:256][911]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.09.26-01.05.45:459][167]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.09.26-01.05.45:475][167]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.09.26-01.05.45:493][167]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.26-01.05.46:095][197]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.26-01.05.46:780][228]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.09.26-01.05.46:801][228]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.09.26-01.05.46:951][233]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.26-01.05.47:729][268]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.26-01.05.47:815][273]LogMaterialEditor: Saving and Compiling material ulrick-wery-tileableset2-wood_Mat
+[2019.09.26-01.05.48:463][273]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.09.26-01.05.48:548][273]LogMaterial: Display: Missing cached shader map for material ulrick-wery-tileableset2-wood_Mat, compiling. 
+[2019.09.26-01.05.48:573][273]LogMaterial: Display: Missing cached shader map for material ulrick-wery-tileableset2-wood_Mat, compiling. 
+[2019.09.26-01.05.48:630][273]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2019.09.26-01.05.48:643][273]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.26-01.05.50:526][273]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.09.26-01.05.50:526][273]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.26-01.05.50:528][273]TextureStreamingBuild: Display: Compiling optional shaders took 1.897 seconds.
+[2019.09.26-01.05.50:559][273]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2019.09.26-01.05.53:311][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ulrick-wery-tileableset2-wood_Mat" FILE="../../../../../../Users/Alexandre/Desktop/AnimGA/Content/ulrick-wery-tileableset2-wood_Mat.uasset" SILENT=true
+[2019.09.26-01.05.53:336][273]LogSavePackage: Moving '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/ulrick-wery-tileableset2-wood_Ma9BE1D3034800F13D6FB1289EFED76C59.tmp' to '../../../../../../Users/Alexandre/Desktop/AnimGA/Content/ulrick-wery-tileableset2-wood_Mat.uasset'
+[2019.09.26-01.05.53:349][273]MaterialEditorStats: Base pass shader: 111 instructions
+[2019.09.26-01.05.53:349][273]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2019.09.26-01.05.53:349][273]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.09.26-01.05.53:349][273]MaterialEditorStats: Texture samplers: 4/16
+[2019.09.26-01.05.53:349][273]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.09.26-01.05.53:349][273]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.09.26-01.06.04:523][206]LogSlate: Window 'ulrick-wery-tileableset2-wood_Mat' being destroyed
+[2019.09.26-01.06.04:528][206]LogSlate: Window 'ulrick-wery-tileableset2-wood_Mat' being destroyed
+[2019.09.26-01.06.13:908][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-01.06.14:107][112]LogAssetEditorManager: Opening Asset editor for Material /Game/ulrick-wery-tileableset2-wood_Mat.ulrick-wery-tileableset2-wood_Mat
+[2019.09.26-01.06.14:110][112]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2019.09.26-01.06.14:199][112]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2019.09.26-01.06.14:212][112]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.26-01.06.14:215][112]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2019.09.26-01.06.14:260][112]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.09.26-01.06.14:724][126]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.26-01.06.15:656][166]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.26-01.06.16:975][229]MaterialEditorStats: Base pass shader: 111 instructions
+[2019.09.26-01.06.16:975][229]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2019.09.26-01.06.16:975][229]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.09.26-01.06.16:975][229]MaterialEditorStats: Texture samplers: 4/16
+[2019.09.26-01.06.16:975][229]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.09.26-01.06.16:975][229]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.09.26-01.06.33:946][665]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2019.09.26-01.06.33:961][665]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2019.09.26-01.06.33:980][665]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.26-01.06.34:593][694]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.26-01.06.36:147][769]MaterialEditorStats: Base pass shader: 111 instructions
+[2019.09.26-01.06.36:147][769]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2019.09.26-01.06.36:148][769]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.09.26-01.06.36:148][769]MaterialEditorStats: Texture samplers: 4/16
+[2019.09.26-01.06.36:148][769]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.09.26-01.06.36:148][769]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.09.26-01.06.41:227][191]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2019.09.26-01.06.41:242][191]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2019.09.26-01.06.41:271][192]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.26-01.06.41:866][220]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.26-01.06.42:376][243]LogMaterialEditor: Saving and Compiling material ulrick-wery-tileableset2-wood_Mat
+[2019.09.26-01.06.42:988][243]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2019.09.26-01.06.43:047][243]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.26-01.06.43:066][243]LogMaterial: Display: Missing cached shader map for material ulrick-wery-tileableset2-wood_Mat, compiling. 
+[2019.09.26-01.06.43:092][243]LogMaterial: Display: Missing cached shader map for material ulrick-wery-tileableset2-wood_Mat, compiling. 
+[2019.09.26-01.06.43:151][243]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.09.26-01.06.43:164][243]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.26-01.06.45:011][243]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.09.26-01.06.45:012][243]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.26-01.06.45:013][243]TextureStreamingBuild: Display: Compiling optional shaders took 1.861 seconds.
+[2019.09.26-01.06.45:055][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.09.26-01.06.47:874][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ulrick-wery-tileableset2-wood_Mat" FILE="../../../../../../Users/Alexandre/Desktop/AnimGA/Content/ulrick-wery-tileableset2-wood_Mat.uasset" SILENT=true
+[2019.09.26-01.06.47:898][243]LogSavePackage: Moving '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/ulrick-wery-tileableset2-wood_Ma9E0901A1412A94101406AEA32ACFE649.tmp' to '../../../../../../Users/Alexandre/Desktop/AnimGA/Content/ulrick-wery-tileableset2-wood_Mat.uasset'
+[2019.09.26-01.06.47:916][243]MaterialEditorStats: Base pass shader: 111 instructions
+[2019.09.26-01.06.47:916][243]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2019.09.26-01.06.47:916][243]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.09.26-01.06.47:916][243]MaterialEditorStats: Texture samplers: 4/16
+[2019.09.26-01.06.47:916][243]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.09.26-01.06.47:916][243]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.09.26-01.06.51:370][398]LogSlate: Window 'ulrick-wery-tileableset2-wood_Mat' being destroyed
+[2019.09.26-01.06.51:376][398]LogSlate: Window 'ulrick-wery-tileableset2-wood_Mat' being destroyed
+[2019.09.26-01.07.25:678][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-01.07.56:361][477]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-01.07.56:603][504]LogEditor: Attempting to add actor of class 'GuitarPlayer' to level at 860.00,-310.00,122.00
+[2019.09.26-01.08.12:358][377]LogEditor: Attempting to add actor of class 'GuitarPlayer' to level at 910.00,-310.00,122.00
+[2019.09.26-01.08.18:624][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-01.08.18:882][ 27]LogEditor: Attempting to add actor of class 'SpectralVisualizer' to level at 1350.00,-100.00,20.00
+[2019.09.26-01.08.20:000][156]LogEditor: Attempting to add actor of class 'SpectralVisualizer' to level at 1370.00,-90.00,80.00
+[2019.09.26-01.08.29:564][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-01.08.29:727][116]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2019.09.26-01.08.31:294][116]LogSlate: Window 'Save Content' being destroyed
+[2019.09.26-01.08.33:589][116]LogSlate: Window 'Message' being destroyed
+[2019.09.26-01.08.33:616][116]LogTexture: Display: Building textures: T_M_Cube_M_M_Cube_M_M_Cube_ulrick-wery-tileableset2-wood_Mat_3D02521648C6F5B5DF9A42B8E76B2B3A_F35C243648D61FC5B8AB9CA2F55940D3_EB27705948F983F31E4446A61F87DF65_BaseColor (DXT1, 128X128)
+[2019.09.26-01.08.33:646][116]LogSavePackage: Moving '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/M_Cube_M_M_Cube_M_M_Cube_ulrick-A618155143706E58DC0DE4BAF02BF0A5.tmp' to '../../../Engine/Content/BasicShapes/M_Cube_M_M_Cube_M_M_Cube_ulrick-wery-tileableset2-wood_Mat_3D02521648C6F5B5DF9A42B8E76B2B3A_F35C243648D61FC5B8AB9CA2F55940D3_EB27705948F983F31E4446A61F87DF65.uasset'
+[2019.09.26-01.08.33:670][116]LogTexture: Display: Building textures: T_M_Cube_M_M_Cube_ulrick-wery-tileableset2-wood_Mat_3D02521648C6F5B5DF9A42B8E76B2B3A_F35C243648D61FC5B8AB9CA2F55940D3_BaseColor (DXT1, 128X128)
+[2019.09.26-01.08.33:695][116]LogSavePackage: Moving '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/M_Cube_M_M_Cube_ulrick-wery-tile752D05E54DF3B3F1C9F13EB15D5AFC99.tmp' to '../../../Engine/Content/BasicShapes/M_Cube_M_M_Cube_ulrick-wery-tileableset2-wood_Mat_3D02521648C6F5B5DF9A42B8E76B2B3A_F35C243648D61FC5B8AB9CA2F55940D3.uasset'
+[2019.09.26-01.08.33:717][116]LogTexture: Display: Building textures: T_M_Cube_ulrick-wery-tileableset2-wood_Mat_3D02521648C6F5B5DF9A42B8E76B2B3A_BaseColor (DXT1, 128X128)
+[2019.09.26-01.08.33:742][116]LogSavePackage: Moving '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/M_Cube_ulrick-wery-tileableset2-805958254A7463CD07E232BBA7C2ACFD.tmp' to '../../../Engine/Content/BasicShapes/M_Cube_ulrick-wery-tileableset2-wood_Mat_3D02521648C6F5B5DF9A42B8E76B2B3A.uasset'
+[2019.09.26-01.08.33:764][116]LogSavePackage: Moving '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/573bbe2afb7e13683406d103b02b0cf740FED8E44972FBDA8D5FFEB183310315.tmp' to '../../../../../../Users/Alexandre/Desktop/AnimGA/Content/573bbe2afb7e13683406d103b02b0cf7--hand-painted-textures-d-texture.uasset'
+[2019.09.26-01.08.33:774][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ground_Material" FILE="../../../../../../Users/Alexandre/Desktop/AnimGA/Content/Ground_Material.uasset" SILENT=true
+[2019.09.26-01.08.33:793][116]LogSavePackage: Moving '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/Ground_MaterialDD8943584413CB2CA00ADF84DE1F0BA1.tmp' to '../../../../../../Users/Alexandre/Desktop/AnimGA/Content/Ground_Material.uasset'
+[2019.09.26-01.08.33:801][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ulrick-wery-tileableset2-wood" FILE="../../../../../../Users/Alexandre/Desktop/AnimGA/Content/ulrick-wery-tileableset2-wood.uasset" SILENT=true
+[2019.09.26-01.08.33:837][116]LogSavePackage: Moving '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/ulrick-wery-tileableset2-wood74A7256F4D59B811C52BD2BC3EA3E5DF.tmp' to '../../../../../../Users/Alexandre/Desktop/AnimGA/Content/ulrick-wery-tileableset2-wood.uasset'
+[2019.09.26-01.08.33:861][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wood_Material" FILE="../../../../../../Users/Alexandre/Desktop/AnimGA/Content/Wood_Material.uasset" SILENT=true
+[2019.09.26-01.08.33:878][116]LogSavePackage: Moving '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/Wood_Material96AA0E024FDA09ACC775248C4EACDA70.tmp' to '../../../../../../Users/Alexandre/Desktop/AnimGA/Content/Wood_Material.uasset'
+[2019.09.26-01.08.38:747][116]LogSlate: Window 'Save Level As' being destroyed
+[2019.09.26-01.08.38:936][116]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.09.26-01.08.38:937][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map" FILE="../../../../../../Users/Alexandre/Desktop/AnimGA/Content/map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.26-01.08.38:965][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.09.26-01.08.39:152][116]LogSavePackage: Moving '../../../../../../Users/Alexandre/Desktop/AnimGA/Saved/map127A73994CEEF6A65B9F30A34EC71F8A.tmp' to '../../../../../../Users/Alexandre/Desktop/AnimGA/Content/map.umap'
+[2019.09.26-01.08.39:183][116]LogFileHelpers: Saving map 'map' took 0.431
+[2019.09.26-01.08.41:652][116]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.09.26-01.08.42:843][116]LogSlate: Window 'Message' being destroyed
+[2019.09.26-01.08.46:255][510]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-01.08.46:269][510]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/map.map:PersistentLevel.map' with GeneratedClass '/Game/map.map_C' with ClassGeneratedBy '/Game/map.map:PersistentLevel.map'
+[2019.09.26-01.08.46:270][510]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.26-01.08.46:271][510]PIE: New page: PIE session: map (Sep 25, 2019, 7:08:46 PM)
+[2019.09.26-01.08.46:283][510]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2019.09.26-01.08.46:287][510]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003167s)
+[2019.09.26-01.08.46:287][510]LogAIModule: Creating AISystem for world map
+[2019.09.26-01.08.46:288][510]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2019.09.26-01.08.46:288][510]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.004283s)
+[2019.09.26-01.08.46:318][510]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2019.09.26-01.08.46:349][510]LogInit: XAudio2 using 'Alto-falantes (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-01.08.46:361][510]LogInit: FAudioDevice initialized.
+[2019.09.26-01.08.46:404][510]LogLoad: Game class is 'GameModeBase'
+[2019.09.26-01.08.46:406][510]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2019.09.25-22.08.46
+[2019.09.26-01.08.46:408][510]LogWorld: Bringing up level for play took: 0.002105
+[2019.09.26-01.08.46:427][510]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.09.26-01.08.46:430][510]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.09.26-01.08.46:431][510]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.09.26-01.08.46:431][510]LogTimeSynth: Warning: Failed to play clip. Null UTimeSynthClip object.
+[2019.09.26-01.08.46:432][510]PIE: Play in editor start time for /Game/UEDPIE_0_map 0.236
+[2019.09.26-01.08.46:432][510]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/map.map:PersistentLevel.map' with GeneratedClass '/Game/map.map_C' with ClassGeneratedBy '/Game/map.map:PersistentLevel.map'

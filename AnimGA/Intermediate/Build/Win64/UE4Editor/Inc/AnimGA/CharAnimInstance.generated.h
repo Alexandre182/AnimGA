@@ -13,8 +13,28 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define ANIMGA_CharAnimInstance_generated_h
 
-#define AnimGA_Source_AnimGA_CharAnimInstance_h_15_RPC_WRAPPERS
-#define AnimGA_Source_AnimGA_CharAnimInstance_h_15_RPC_WRAPPERS_NO_PURE_DECLS
+#define AnimGA_Source_AnimGA_CharAnimInstance_h_15_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execUpdateAnimationProperties) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->UpdateAnimationProperties(); \
+		P_NATIVE_END; \
+	}
+
+
+#define AnimGA_Source_AnimGA_CharAnimInstance_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execUpdateAnimationProperties) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->UpdateAnimationProperties(); \
+		P_NATIVE_END; \
+	}
+
+
 #define AnimGA_Source_AnimGA_CharAnimInstance_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUCharAnimInstance(); \

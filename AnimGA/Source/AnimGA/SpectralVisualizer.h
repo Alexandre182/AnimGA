@@ -41,12 +41,20 @@ protected:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Audio")
 	float Test;
 
+	float Testaux;
+
 	/**This is the amount of spacing between each bar*/
 	UPROPERTY(EditAnywhere, Category = "Audio")
 	float SpectrumBarSpacing;
 
+	FTimerHandle MemberTimerHandle;
+
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
+
+	float GetTest();
+
+	void SetTest();
 
 };

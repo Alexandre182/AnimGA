@@ -3,6 +3,7 @@
 
 #include "SpectralVisualizer.h"
 #include "TimeSynthComponent.h"
+#include "TimerManager.h"
 #include "Components/StaticMeshComponent.h"
 #include "Runtime/Engine/Classes/Engine/StaticMesh.h"
 #include "Runtime/Engine/Public/StaticMeshResources.h"
@@ -16,7 +17,7 @@ ASpectralVisualizer::ASpectralVisualizer()
 
 	SpectrumBarSpacing = 100.f;
 	Test = 0.f;
-
+	Testaux = 0.f;
 	TimeSynthComponent = CreateDefaultSubobject<UTimeSynthComponent>("TimeSynthComponent");
 	TimeSynthComponent->bEnableSpectralAnalysis = true;
 
@@ -50,6 +51,8 @@ void ASpectralVisualizer::BeginPlay()
 	TimeSynthComponent->PlayClip(TimeSynthClip);
 
 
+	GetWorldTimerManager().SetTimer(MemberTimerHandle,this, &ASpectralVisualizer::SetTest, 0.001f, true, 1.0f);
+
 }
 
 // Called every frame
@@ -63,11 +66,14 @@ void ASpectralVisualizer::Tick(float DeltaTime)
 		FVector BarScale = SpectrumBar->GetComponentScale();
 		BarScale.Z = 1.f + SpecData.Magnitude / 5.f;
 		SpectrumBar->SetWorldScale3D(FMath::VInterpTo(SpectrumBar->GetComponentScale(), BarScale, DeltaTime, 5.f));
-
-
-		Test = SpecData.Magnitude * 10 * 2;
+		Testaux = SpecData.Magnitude * 10 * 2;
 	}
 
+}
+
+void ASpectralVisualizer::SetTest()
+{
+	Test = Testaux;
 }
 
 void ASpectralVisualizer::PostEditChangeProperty(struct FPropertyChangedEvent& PropertyChangedEvent)
@@ -90,4 +96,9 @@ void ASpectralVisualizer::Refresh()
 		}
 		
 	}
+}
+
+float ASpectralVisualizer::GetTest()
+{
+	return Test;
 }
