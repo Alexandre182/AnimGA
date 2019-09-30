@@ -3,6 +3,7 @@
 #include "GuitarPlayer.h"
 #include "SpectralVisualizer.h"
 #include "Components/BoxComponent.h"
+#include "UObject/UObjectIterator.h"
 #include "Components/SkeletalMeshComponent.h"
 
 // Sets default values
@@ -32,8 +33,13 @@ void AGuitarPlayer::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
-	SpecAux = Spec.GetDefaultObject();
+	for (TObjectIterator<ASpectralVisualizer> Itr; Itr; ++Itr)
+	{
+		// Access the subclass instance with the * or -> operators.
+		ASpectralVisualizer *Component = *Itr;
 
-	FrequencyMagnitude = SpecAux->GetTest();
+		FrequencyMagnitude = Itr->GetTest();
+	}
+
 }
 

@@ -431,20 +431,20 @@
 /I ThirdParty
 /I ThirdParty\libSampleRate\Public
 /I ThirdParty\libSampleRate
-/I C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\UE4Editor\Inc\AnimGA
-/I C:\Users\Alexandre\Desktop\AnimGA\Source
-/I C:\Users\Alexandre\Desktop\AnimGA\Source\AnimGA
+/I C:\Users\Alexandre\Desktop\AnimGA-2019\AnimGA\Intermediate\Build\Win64\UE4Editor\Inc\AnimGA
+/I C:\Users\Alexandre\Desktop\AnimGA-2019\AnimGA\Source
+/I C:\Users\Alexandre\Desktop\AnimGA-2019\AnimGA\Source\AnimGA
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
-/FI"C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\AnimGAEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\AnimGAEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\AnimGAEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\Alexandre\Desktop\AnimGA\Source\AnimGA\SpectralVisualizer.cpp"
-/FI"C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\UE4Editor\Development\AnimGA\Definitions.AnimGA.h"
-/Fo"C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\UE4Editor\Development\AnimGA\SpectralVisualizer.cpp.obj"
+/FI"C:\Users\Alexandre\Desktop\AnimGA-2019\AnimGA\Intermediate\Build\Win64\AnimGAEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"C:\Users\Alexandre\Desktop\AnimGA-2019\AnimGA\Intermediate\Build\Win64\AnimGAEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Users\Alexandre\Desktop\AnimGA-2019\AnimGA\Intermediate\Build\Win64\AnimGAEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Users\Alexandre\Desktop\AnimGA-2019\AnimGA\Source\AnimGA\SpectralVisualizer.cpp"
+/FI"C:\Users\Alexandre\Desktop\AnimGA-2019\AnimGA\Intermediate\Build\Win64\UE4Editor\Development\AnimGA\Definitions.AnimGA.h"
+/Fo"C:\Users\Alexandre\Desktop\AnimGA-2019\AnimGA\Intermediate\Build\Win64\UE4Editor\Development\AnimGA\SpectralVisualizer.cpp.obj"
 /TP
 /GR-
 /W4

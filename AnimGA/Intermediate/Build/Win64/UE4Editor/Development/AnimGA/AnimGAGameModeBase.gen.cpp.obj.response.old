@@ -28,9 +28,11 @@
 /wd4838
 /we4668
 /I .
-/I C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\UE4Editor\Inc\AnimGA
-/I C:\Users\Alexandre\Desktop\AnimGA\Source
-/I C:\Users\Alexandre\Desktop\AnimGA\Source\AnimGA
+/I ..\Plugins\Runtime\TimeSynth\Intermediate\Build\Win64\UE4Editor\Inc\TimeSynth
+/I ..\Plugins\Runtime\TimeSynth\Source
+/I ..\Plugins\Runtime\TimeSynth\Source\TimeSynth\Classes
+/I ..\Plugins\Runtime\TimeSynth\Source\TimeSynth\Public
+/I ..\Plugins\Runtime\TimeSynth\Source\TimeSynth
 /I Runtime
 /I Runtime\Core\Public
 /I Runtime\Core
@@ -429,6 +431,9 @@
 /I ThirdParty
 /I ThirdParty\libSampleRate\Public
 /I ThirdParty\libSampleRate
+/I C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\UE4Editor\Inc\AnimGA
+/I C:\Users\Alexandre\Desktop\AnimGA\Source
+/I C:\Users\Alexandre\Desktop\AnimGA\Source\AnimGA
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"

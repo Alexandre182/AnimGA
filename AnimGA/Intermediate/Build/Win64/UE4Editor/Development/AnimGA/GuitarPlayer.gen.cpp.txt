@@ -1,5 +1,5 @@
-C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\UE4Editor\Development\AnimGA\Definitions.AnimGA.h
+C:\Users\Alexandre\Desktop\AnimGA-2019\AnimGA\Intermediate\Build\Win64\UE4Editor\Development\AnimGA\Definitions.AnimGA.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\Alexandre\Desktop\AnimGA\Source\AnimGA/GuitarPlayer.h
-c:\users\alexandre\desktop\animga\intermediate\build\win64\ue4editor\inc\animga\GuitarPlayer.generated.h
+C:\Users\Alexandre\Desktop\AnimGA-2019\AnimGA\Source\AnimGA/GuitarPlayer.h
+c:\users\alexandre\desktop\animga-2019\animga\intermediate\build\win64\ue4editor\inc\animga\GuitarPlayer.generated.h

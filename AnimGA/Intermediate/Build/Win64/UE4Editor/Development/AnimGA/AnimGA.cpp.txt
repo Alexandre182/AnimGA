@@ -1,2 +1,2 @@
-C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\UE4Editor\Development\AnimGA\Definitions.AnimGA.h
-c:\users\alexandre\desktop\animga\source\animga\AnimGA.h
+C:\Users\Alexandre\Desktop\AnimGA-2019\AnimGA\Intermediate\Build\Win64\UE4Editor\Development\AnimGA\Definitions.AnimGA.h
+c:\users\alexandre\desktop\animga-2019\animga\source\animga\AnimGA.h

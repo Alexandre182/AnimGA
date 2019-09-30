@@ -1,9 +1,9 @@
-C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\UE4Editor\Development\AnimGA\Definitions.AnimGA.h
-c:\users\alexandre\desktop\animga\source\animga\CharAnimInstance.h
-C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\UE4Editor\Inc\AnimGA\CharAnimInstance.generated.h
+C:\Users\Alexandre\Desktop\AnimGA-2019\AnimGA\Intermediate\Build\Win64\UE4Editor\Development\AnimGA\Definitions.AnimGA.h
+c:\users\alexandre\desktop\animga-2019\animga\source\animga\CharAnimInstance.h
+C:\Users\Alexandre\Desktop\AnimGA-2019\AnimGA\Intermediate\Build\Win64\UE4Editor\Inc\AnimGA\CharAnimInstance.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\EngineUtils.h
-c:\users\alexandre\desktop\animga\source\animga\SpectralVisualizer.h
-C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\UE4Editor\Inc\AnimGA\SpectralVisualizer.generated.h
+c:\users\alexandre\desktop\animga-2019\animga\source\animga\SpectralVisualizer.h
+C:\Users\Alexandre\Desktop\AnimGA-2019\AnimGA\Intermediate\Build\Win64\UE4Editor\Inc\AnimGA\SpectralVisualizer.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementComponent.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h

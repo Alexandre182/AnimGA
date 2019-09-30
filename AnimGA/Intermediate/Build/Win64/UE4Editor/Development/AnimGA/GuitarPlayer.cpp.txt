@@ -1,8 +1,8 @@
-C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\UE4Editor\Development\AnimGA\Definitions.AnimGA.h
-c:\users\alexandre\desktop\animga\source\animga\GuitarPlayer.h
-C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\UE4Editor\Inc\AnimGA\GuitarPlayer.generated.h
-c:\users\alexandre\desktop\animga\source\animga\SpectralVisualizer.h
-C:\Users\Alexandre\Desktop\AnimGA\Intermediate\Build\Win64\UE4Editor\Inc\AnimGA\SpectralVisualizer.generated.h
+C:\Users\Alexandre\Desktop\AnimGA-2019\AnimGA\Intermediate\Build\Win64\UE4Editor\Development\AnimGA\Definitions.AnimGA.h
+c:\users\alexandre\desktop\animga-2019\animga\source\animga\GuitarPlayer.h
+C:\Users\Alexandre\Desktop\AnimGA-2019\AnimGA\Intermediate\Build\Win64\UE4Editor\Inc\AnimGA\GuitarPlayer.generated.h
+c:\users\alexandre\desktop\animga-2019\animga\source\animga\SpectralVisualizer.h
+C:\Users\Alexandre\Desktop\AnimGA-2019\AnimGA\Intermediate\Build\Win64\UE4Editor\Inc\AnimGA\SpectralVisualizer.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
